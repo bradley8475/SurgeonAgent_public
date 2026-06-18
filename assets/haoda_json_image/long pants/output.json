@@ -1,0 +1,1187 @@
+{
+  "pattern": {
+    "panels": {
+      "6_15": {
+        "vertices": [
+          [
+            0.0,
+            1.75
+          ],
+          [
+            45.0,
+            1.75
+          ],
+          [
+            45.0,
+            -1.75
+          ],
+          [
+            0.0,
+            -1.75
+          ],
+          [
+            -45.0,
+            -1.75
+          ],
+          [
+            -45.0,
+            1.75
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ]
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ]
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ]
+          },
+          {
+            "endpoints": [
+              3,
+              4
+            ]
+          },
+          {
+            "endpoints": [
+              4,
+              5
+            ]
+          },
+          {
+            "endpoints": [
+              5,
+              0
+            ]
+          }
+        ],
+        "arrangement": "torso",
+        "uvr": [
+          0.5,
+          0.4,
+          5.0
+        ]
+      },
+      "Pattern_328759_1": {
+        "vertices": [
+          [
+            7.12,
+            -55.46
+          ],
+          [
+            -18.1,
+            -55.46
+          ],
+          [
+            -16.84,
+            42.65
+          ],
+          [
+            5.75,
+            41.46
+          ],
+          [
+            12.13,
+            15.3
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ]
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.33,
+                  -0.01
+                ],
+                [
+                  0.67,
+                  0.01
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.34,
+                  -0.01
+                ],
+                [
+                  0.65,
+                  -0.01
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              3,
+              4
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.31,
+                  -0.02
+                ],
+                [
+                  0.71,
+                  -0.22
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              4,
+              0
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.13,
+                  -0.01
+                ],
+                [
+                  0.38,
+                  -0.02
+                ]
+              ]
+            }
+          }
+        ],
+        "arrangement": "thigh_R",
+        "uvr": [
+          0.0,
+          0.48,
+          3.0
+        ]
+      },
+      "Pattern_328760_1": {
+        "vertices": [
+          [
+            -8.79,
+            -55.46
+          ],
+          [
+            17.59,
+            -55.46
+          ],
+          [
+            17.59,
+            42.65
+          ],
+          [
+            -5.29,
+            44.6
+          ],
+          [
+            -15.28,
+            15.3
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ]
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.33,
+                  0.01
+                ],
+                [
+                  0.67,
+                  -0.01
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.39,
+                  0.03
+                ],
+                [
+                  0.7,
+                  0.02
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              3,
+              4
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.29,
+                  -0.01
+                ],
+                [
+                  0.74,
+                  0.25
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              4,
+              0
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.12,
+                  0.04
+                ],
+                [
+                  0.42,
+                  0.01
+                ]
+              ]
+            }
+          }
+        ],
+        "arrangement": "thigh_R",
+        "uvr": [
+          0.5,
+          0.48,
+          4.25
+        ]
+      },
+      "Pattern_328769_5": {
+        "vertices": [
+          [
+            7.14,
+            -54.96
+          ],
+          [
+            7.12,
+            -55.46
+          ],
+          [
+            -18.1,
+            -55.46
+          ],
+          [
+            -18.09,
+            -54.96
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.27,
+                  -0.0
+                ],
+                [
+                  0.63,
+                  -0.0
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ]
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ]
+          },
+          {
+            "endpoints": [
+              3,
+              0
+            ]
+          }
+        ],
+        "arrangement": "thigh_R",
+        "uvr": [
+          0.85,
+          0.0,
+          1.25
+        ]
+      },
+      "Pattern_328772_6": {
+        "vertices": [
+          [
+            17.59,
+            -54.96
+          ],
+          [
+            17.59,
+            -55.46
+          ],
+          [
+            -8.79,
+            -55.46
+          ],
+          [
+            -8.83,
+            -54.96
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ]
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ]
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.34,
+                  0.0
+                ],
+                [
+                  0.69,
+                  0.0
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              3,
+              0
+            ]
+          }
+        ],
+        "arrangement": "thigh_L",
+        "uvr": [
+          0.65,
+          0.0,
+          1.25
+        ]
+      },
+      "Pattern_328761_1": {
+        "vertices": [
+          [
+            -7.12,
+            -55.46
+          ],
+          [
+            18.1,
+            -55.46
+          ],
+          [
+            16.84,
+            42.65
+          ],
+          [
+            -5.75,
+            41.46
+          ],
+          [
+            -12.13,
+            15.3
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ]
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.33,
+                  0.01
+                ],
+                [
+                  0.67,
+                  -0.01
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.34,
+                  0.01
+                ],
+                [
+                  0.65,
+                  0.01
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              3,
+              4
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.31,
+                  0.02
+                ],
+                [
+                  0.71,
+                  0.22
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              4,
+              0
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.13,
+                  0.01
+                ],
+                [
+                  0.38,
+                  0.02
+                ]
+              ]
+            }
+          }
+        ],
+        "arrangement": "thigh_L",
+        "uvr": [
+          0.0,
+          0.48,
+          3.0
+        ]
+      },
+      "Pattern_328762_1": {
+        "vertices": [
+          [
+            8.79,
+            -55.46
+          ],
+          [
+            -17.59,
+            -55.46
+          ],
+          [
+            -17.59,
+            42.65
+          ],
+          [
+            5.29,
+            44.6
+          ],
+          [
+            15.28,
+            15.3
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ]
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.33,
+                  -0.01
+                ],
+                [
+                  0.67,
+                  0.01
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.39,
+                  -0.03
+                ],
+                [
+                  0.7,
+                  -0.02
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              3,
+              4
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.29,
+                  0.01
+                ],
+                [
+                  0.74,
+                  -0.25
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              4,
+              0
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.12,
+                  -0.04
+                ],
+                [
+                  0.42,
+                  -0.01
+                ]
+              ]
+            }
+          }
+        ],
+        "arrangement": "thigh_L",
+        "uvr": [
+          0.5,
+          0.48,
+          4.25
+        ]
+      },
+      "Pattern_328770_5": {
+        "vertices": [
+          [
+            -7.14,
+            -54.96
+          ],
+          [
+            -7.12,
+            -55.46
+          ],
+          [
+            18.1,
+            -55.46
+          ],
+          [
+            18.09,
+            -54.96
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.27,
+                  0.0
+                ],
+                [
+                  0.63,
+                  0.0
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ]
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ]
+          },
+          {
+            "endpoints": [
+              3,
+              0
+            ]
+          }
+        ],
+        "arrangement": "thigh_L",
+        "uvr": [
+          0.15,
+          0.0,
+          1.25
+        ]
+      },
+      "Pattern_328773_6": {
+        "vertices": [
+          [
+            -17.59,
+            -54.96
+          ],
+          [
+            -17.59,
+            -55.46
+          ],
+          [
+            8.79,
+            -55.46
+          ],
+          [
+            8.83,
+            -54.96
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ]
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ]
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.34,
+                  -0.0
+                ],
+                [
+                  0.69,
+                  -0.0
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              3,
+              0
+            ]
+          }
+        ],
+        "arrangement": "thigh_R",
+        "uvr": [
+          0.35,
+          0.0,
+          1.25
+        ]
+      }
+    },
+    "stitches": [
+      {
+        "0": {
+          "panel": "6_15",
+          "start_id": 4,
+          "start_ratio": 0.0,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "6_15",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "6_15",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 0.473166
+        },
+        "1": {
+          "panel": "Pattern_328759_1",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "6_15",
+          "start_id": 2,
+          "start_ratio": 0.473166,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328760_1",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328760_1",
+          "start_id": 4,
+          "start_ratio": 0.0,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328759_1",
+          "start_id": 4,
+          "start_ratio": 0.0,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328759_1",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328760_1",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328759_1",
+          "start_id": 0,
+          "start_ratio": 0.0,
+          "end_id": 0,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328769_5",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328759_1",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 0.00509529
+        },
+        "1": {
+          "panel": "Pattern_328769_5",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328759_1",
+          "start_id": 4,
+          "start_ratio": 0.99295,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328769_5",
+          "start_id": 0,
+          "start_ratio": 0.0,
+          "end_id": 0,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328760_1",
+          "start_id": 0,
+          "start_ratio": 0.0,
+          "end_id": 0,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328772_6",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "Pattern_328760_1",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 0.00509532
+        },
+        "1": {
+          "panel": "Pattern_328772_6",
+          "start_id": 0,
+          "start_ratio": 0.0,
+          "end_id": 0,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "Pattern_328760_1",
+          "start_id": 4,
+          "start_ratio": 0.992961,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328772_6",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "Pattern_328762_1",
+          "start_id": 4,
+          "start_ratio": 0.0,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328761_1",
+          "start_id": 4,
+          "start_ratio": 0.0,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328761_1",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328762_1",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "6_15",
+          "start_id": 3,
+          "start_ratio": 0.526834,
+          "end_id": 3,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328761_1",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "6_15",
+          "start_id": 3,
+          "start_ratio": 0.0,
+          "end_id": 3,
+          "end_ratio": 0.526834
+        },
+        "1": {
+          "panel": "Pattern_328762_1",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "Pattern_328761_1",
+          "start_id": 0,
+          "start_ratio": 0.0,
+          "end_id": 0,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328770_5",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328761_1",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 0.00509529
+        },
+        "1": {
+          "panel": "Pattern_328770_5",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328761_1",
+          "start_id": 4,
+          "start_ratio": 0.99295,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328770_5",
+          "start_id": 0,
+          "start_ratio": 0.0,
+          "end_id": 0,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328762_1",
+          "start_id": 0,
+          "start_ratio": 0.0,
+          "end_id": 0,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328773_6",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "Pattern_328762_1",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 1,
+          "end_ratio": 0.00509532
+        },
+        "1": {
+          "panel": "Pattern_328773_6",
+          "start_id": 0,
+          "start_ratio": 0.0,
+          "end_id": 0,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "Pattern_328762_1",
+          "start_id": 4,
+          "start_ratio": 0.992961,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328773_6",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "Pattern_328759_1",
+          "start_id": 3,
+          "start_ratio": 0.0,
+          "end_id": 3,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328761_1",
+          "start_id": 3,
+          "start_ratio": 0.0,
+          "end_id": 3,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern_328762_1",
+          "start_id": 3,
+          "start_ratio": 0.0,
+          "end_id": 3,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern_328760_1",
+          "start_id": 3,
+          "start_ratio": 0.0,
+          "end_id": 3,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      }
+    ]
+  }
+}

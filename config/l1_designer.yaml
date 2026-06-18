@@ -1,0 +1,8 @@
+agents:
+  l1_designer:
+    model_name: "Qwen3.6-Plus-DogFooding"
+    system_prompt_path: "prompts/l1_designer.txt"
+    tools: ["write_tool", "update_tool", "delete_tool", "view_tool", "finish_pair"]
+    max_tokens: 32768
+logging:
+  path: "logs/l1_designer"

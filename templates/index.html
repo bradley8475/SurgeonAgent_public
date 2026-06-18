@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}Agent Log Visualizer - Sessions{% endblock %}
+
+{% block content %}
+<h1 style="margin-bottom: 0.5rem; font-weight: 600;">Agent Log Sessions</h1>
+<p style="color: #666; margin-bottom: 2rem;">Select a session to view the agent conversations</p>
+
+{% if sessions %}
+    <div class="session-list">
+        {% for session in sessions %}
+        <a href="/session/{{ session }}" class="session-item">
+            <div class="session-title">{{ session }}</div>
+            <div class="session-subtitle">View agent conversations for this session</div>
+        </a>
+        {% endfor %}
+    </div>
+{% else %}
+    <div class="alert">
+        <h4>No Log Sessions Found</h4>
+        <p>No log sessions were found in the logs directory. Make sure you have log files in the correct format.</p>
+        <p>Expected structure: <code>logs/YYYYMMDD_HHMMSS/agent_name/timestamp_input.json</code></p>
+    </div>
+{% endif %}
+{% endblock %}

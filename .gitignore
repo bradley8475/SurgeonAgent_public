@@ -1,0 +1,50 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.env
+
+# Virtual environments
+.venv
+tests
+artifacts
+
+# macOS Finder metadata
+.DS_Store
+
+# Runtime output (recreated each agent run)
+workspace/
+
+# 日志和临时文件
+logs/
+temp/
+out/
+
+# 运行结果（本地生成，不随仓库分发）
+results/
+
+# IDE / per-user 配置
+.claude/
+
+# LaTeX 编译产物
+*.aux
+*.log
+*.bbl
+*.blg
+*.bcf
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+
+# 论文工作中的备份与预览
+*.original
+*.prepolish

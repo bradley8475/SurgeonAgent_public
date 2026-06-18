@@ -1,0 +1,8 @@
+agents:
+  l1_transcriber:
+    model_name: "Qwen3.6-Plus-DogFooding"
+    system_prompt_path: "prompts/l1_transcriber.txt"
+    tools: []
+    max_tokens: 16384
+logging:
+  path: "logs/l1_transcriber"

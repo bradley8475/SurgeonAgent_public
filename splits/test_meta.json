@@ -1,0 +1,1976 @@
+[
+  {
+    "path": "../garment_data/template/1015/f1f6adff3f0ee88d/pattern.json",
+    "n_panels": 5,
+    "signature": [
+      "backLeft",
+      "backRight",
+      "frontLeft",
+      "frontRight",
+      "waistband"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/1289d8499ac699e9/pattern.json",
+    "n_panels": 5,
+    "signature": [
+      "back",
+      "front",
+      "sleeveLeft",
+      "sleeveRight",
+      "waistband"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/567773ca056280d2/pattern.json",
+    "n_panels": 2,
+    "signature": [
+      "back",
+      "front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/2b1cd0b309671cec/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "back",
+      "front",
+      "sleeveLeft",
+      "sleeveRight"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/clo/1015/dd129fd70b247c61/pattern.json",
+    "n_panels": 5,
+    "signature": [
+      "backLeft",
+      "backRight",
+      "backSideLeft",
+      "backSideRight",
+      "front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/clo/1015/8e741ff627249109/pattern.json",
+    "n_panels": 2,
+    "signature": [
+      "Pattern_14821",
+      "Pattern_14822"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/clo/1015/00e44fa56da003b0/pattern.json",
+    "n_panels": 3,
+    "signature": [
+      "3",
+      "back",
+      "front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/95a9d0d1260ebf77/pattern.json",
+    "n_panels": 3,
+    "signature": [
+      "back",
+      "collar",
+      "front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/ba3d26adf233f26f/pattern.json",
+    "n_panels": 3,
+    "signature": [
+      "back",
+      "front",
+      "waistband"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5POH1MHN4D/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_CSJH31YUY3/pattern.json",
+    "n_panels": 2,
+    "signature": [
+      "skirt_back",
+      "skirt_front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/e438d776f3f7849e/pattern.json",
+    "n_panels": 5,
+    "signature": [
+      "back",
+      "collar",
+      "front",
+      "sleeveLeft",
+      "sleeveRight"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/clo/1015/e13cf3b15dc930c1/pattern.json",
+    "n_panels": 3,
+    "signature": [
+      "Pattern2D_780287_23",
+      "Pattern2D_780289_25",
+      "Pattern2D_780290_20"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_B0K69L0CQ7/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_front",
+      "skirt_front_0"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/95cb72872bc6b92f/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "back",
+      "collar",
+      "front",
+      "waistband"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_A8AF2KUIYG/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_9ZG2PN1HGW/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/2e73f8f8e7c7fb4a/pattern.json",
+    "n_panels": 2,
+    "signature": [
+      "back",
+      "front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/fff873c1cddeee9a/pattern.json",
+    "n_panels": 3,
+    "signature": [
+      "back",
+      "collar",
+      "front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/605ee4842b9cb625/pattern.json",
+    "n_panels": 2,
+    "signature": [
+      "back",
+      "front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_FORONJN67Z/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_0FRNVLDXLN/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5X6X8RTZJK/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/template/1015/2e11abb5ffae0f3d/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "back",
+      "front",
+      "sleeveLeft",
+      "sleeveRight"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_6PM8VFY4JE/pattern.json",
+    "n_panels": 4,
+    "signature": [
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "easy"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_CYT17KC43E/pattern.json",
+    "n_panels": 8,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_front",
+      "skirt_front_0"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/clo/1015/6fa7c18c0cb39f3b/pattern.json",
+    "n_panels": 8,
+    "signature": [
+      "Pattern2D_252497",
+      "Pattern2D_252499",
+      "Pattern2D_252500",
+      "Pattern_89326062",
+      "Pattern_89327363",
+      "Pattern_89327365",
+      "Pattern_89398383",
+      "Pattern_89398384"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_BTK1Z0PPLG/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_ATDY3AJN0Q/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/clo/1015/4c71a170ee4de882/pattern.json",
+    "n_panels": 8,
+    "signature": [
+      "Pattern2D_252498",
+      "Pattern2D_252501",
+      "Pattern2D_252504",
+      "Pattern_89326062",
+      "Pattern_89327363",
+      "Pattern_89327365",
+      "Pattern_89398383",
+      "Pattern_89398384"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_DO8STJ1J6J/pattern.json",
+    "n_panels": 8,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_ALOQFAPTC7/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_back_1",
+      "skirt_back_2",
+      "skirt_back_3",
+      "skirt_front",
+      "skirt_front_0",
+      "skirt_front_1",
+      "skirt_front_2",
+      "skirt_front_3"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_89BU5D7HT9/pattern.json",
+    "n_panels": 9,
+    "signature": [
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "skirt_panel_5",
+      "skirt_panel_6",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_AE7KL02HPP/pattern.json",
+    "n_panels": 8,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_DZGADD2S34/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_265AEA87Y9/pattern.json",
+    "n_panels": 6,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_6DK2DL62ET/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_front",
+      "skirt_front_0",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_1Z16MBE9UZ/pattern.json",
+    "n_panels": 8,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "skirt_back",
+      "skirt_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_0YROZT130H/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_28T397A12V/pattern.json",
+    "n_panels": 6,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_0DR6EJTF04/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_4KO3BTAM2E/pattern.json",
+    "n_panels": 8,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "right_btorso",
+      "right_ftorso"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_8E20IU2H9F/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "right_btorso",
+      "right_ftorso",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/clo/1015/f8718a369d861691/pattern.json",
+    "n_panels": 9,
+    "signature": [
+      "6_15",
+      "Pattern_328759_1",
+      "Pattern_328760_1",
+      "Pattern_328761_1",
+      "Pattern_328762_1",
+      "Pattern_328769_5",
+      "Pattern_328770_5",
+      "Pattern_328772_6",
+      "Pattern_328773_6"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_C2XSY1SKHV/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_back_1",
+      "skirt_back_2",
+      "skirt_front",
+      "skirt_front_0",
+      "skirt_front_1",
+      "skirt_front_2",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_EY0HD44NDE/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_684WV57YK5/pattern.json",
+    "n_panels": 8,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "skirt_back",
+      "skirt_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_AQ9J8PZFV9/pattern.json",
+    "n_panels": 7,
+    "signature": [
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_63MJ2TYOFP/pattern.json",
+    "n_panels": 10,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/clo/1015/b30454689a4b0664/pattern.json",
+    "n_panels": 7,
+    "signature": [
+      "noname..M_1_16",
+      "noname..M_3_21",
+      "noname..M_4_14",
+      "noname..M_5_15",
+      "noname..M_6_17",
+      "noname..M_7_18",
+      "noname..M_8_23"
+    ],
+    "bin": "medium"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_00YONAPXZE/pattern.json",
+    "n_panels": 18,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_249RUXCM75/pattern.json",
+    "n_panels": 12,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_4FIT41GWOP/pattern.json",
+    "n_panels": 18,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_back_3",
+      "ins_skirt_back_4",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "ins_skirt_front_3",
+      "ins_skirt_front_4",
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_EDOV8CMMAJ/pattern.json",
+    "n_panels": 14,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_86FF7HFBGU/pattern.json",
+    "n_panels": 16,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_10",
+      "skirt_panel_11",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "skirt_panel_5",
+      "skirt_panel_6",
+      "skirt_panel_7",
+      "skirt_panel_8",
+      "skirt_panel_9"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5Y2IH6K5KG/pattern.json",
+    "n_panels": 16,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_back_3",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "ins_skirt_front_3",
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5H1L7BJTON/pattern.json",
+    "n_panels": 14,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_back_3",
+      "ins_skirt_back_4",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "ins_skirt_front_3",
+      "ins_skirt_front_4",
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_0R3KEWI7YP/pattern.json",
+    "n_panels": 18,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "skirt_panel_5",
+      "skirt_panel_6",
+      "skirt_panel_7",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5LR7Q171V5/pattern.json",
+    "n_panels": 18,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_71ZY8DV67E/pattern.json",
+    "n_panels": 16,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_back_1",
+      "skirt_back_2",
+      "skirt_front",
+      "skirt_front_0",
+      "skirt_front_1",
+      "skirt_front_2",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_3X0YZL0ED2/pattern.json",
+    "n_panels": 18,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_0LPITGY2ZB/pattern.json",
+    "n_panels": 12,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "pant_l_cuff_b",
+      "pant_l_cuff_f",
+      "pant_r_cuff_b",
+      "pant_r_cuff_f",
+      "right_btorso",
+      "right_ftorso"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_FHF91RXJNW/pattern.json",
+    "n_panels": 12,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_873QYY5JPZ/pattern.json",
+    "n_panels": 14,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_E524RGLPLK/pattern.json",
+    "n_panels": 12,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_A3Y3YUL2R7/pattern.json",
+    "n_panels": 12,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_1NYTRRWAKM/pattern.json",
+    "n_panels": 18,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5ON35A4S6N/pattern.json",
+    "n_panels": 14,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_4ZKQS3WBKP/pattern.json",
+    "n_panels": 12,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_C4QYVPR2ZB/pattern.json",
+    "n_panels": 18,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_258W5BARKH/pattern.json",
+    "n_panels": 18,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_back_1",
+      "skirt_back_2",
+      "skirt_front",
+      "skirt_front_0",
+      "skirt_front_1",
+      "skirt_front_2",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/clo/1015/cb0584d851ea08fa/pattern.json",
+    "n_panels": 17,
+    "signature": [
+      "Pattern_1774806",
+      "Pattern_1774807",
+      "Pattern_3497099",
+      "Pattern_516106",
+      "Pattern_516107",
+      "Pattern_516108",
+      "Pattern_516109",
+      "Pattern_516110",
+      "Pattern_516111",
+      "Pattern_516112",
+      "Pattern_516113",
+      "Pattern_556653",
+      "Pattern_556655",
+      "Pattern_556656",
+      "Pattern_556658",
+      "Pattern_556660",
+      "Pattern_556661"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5UTI4KFRVK/pattern.json",
+    "n_panels": 17,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_10",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "skirt_panel_5",
+      "skirt_panel_6",
+      "skirt_panel_7",
+      "skirt_panel_8",
+      "skirt_panel_9",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_A29XKJV2AX/pattern.json",
+    "n_panels": 14,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "skirt_panel_5",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_AUBL9BNUUC/pattern.json",
+    "n_panels": 12,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f"
+    ],
+    "bin": "hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_4M2IM1ZCSG/pattern.json",
+    "n_panels": 32,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_back_3",
+      "ins_skirt_back_4",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "ins_skirt_front_3",
+      "ins_skirt_front_4",
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_BH4KRHNR47/pattern.json",
+    "n_panels": 28,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_back_3",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "ins_skirt_front_3",
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_1VZ53LXQND/pattern.json",
+    "n_panels": 22,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_2BLEZG2MQG/pattern.json",
+    "n_panels": 21,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5KV3GIRI8U/pattern.json",
+    "n_panels": 22,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "pant_l_cuff_skirt_b",
+      "pant_l_cuff_skirt_f",
+      "pant_r_cuff_skirt_b",
+      "pant_r_cuff_skirt_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5M024N6GM5/pattern.json",
+    "n_panels": 28,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_back_3",
+      "ins_skirt_back_4",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "ins_skirt_front_3",
+      "ins_skirt_front_4",
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_3K71N2J4TJ/pattern.json",
+    "n_panels": 22,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_back_1",
+      "skirt_back_2",
+      "skirt_front",
+      "skirt_front_0",
+      "skirt_front_1",
+      "skirt_front_2",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_D9RMV2SYPC/pattern.json",
+    "n_panels": 22,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "pant_l_cuff_skirt_b",
+      "pant_l_cuff_skirt_f",
+      "pant_r_cuff_skirt_b",
+      "pant_r_cuff_skirt_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_D5E8OMQ9XA/pattern.json",
+    "n_panels": 26,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_EX9K0M1SOI/pattern.json",
+    "n_panels": 24,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_front",
+      "skirt_front_0",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_8KSPZBRHU8/pattern.json",
+    "n_panels": 20,
+    "signature": [
+      "ins_skirt_back_0",
+      "ins_skirt_back_1",
+      "ins_skirt_back_2",
+      "ins_skirt_back_3",
+      "ins_skirt_back_4",
+      "ins_skirt_front_0",
+      "ins_skirt_front_1",
+      "ins_skirt_front_2",
+      "ins_skirt_front_3",
+      "ins_skirt_front_4",
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_8URJ9QQCVT/pattern.json",
+    "n_panels": 25,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_10",
+      "skirt_panel_11",
+      "skirt_panel_12",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "skirt_panel_5",
+      "skirt_panel_6",
+      "skirt_panel_7",
+      "skirt_panel_8",
+      "skirt_panel_9"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_38JJ3T92JE/pattern.json",
+    "n_panels": 23,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_10",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "skirt_panel_5",
+      "skirt_panel_6",
+      "skirt_panel_7",
+      "skirt_panel_8",
+      "skirt_panel_9"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_E1S932E8Y9/pattern.json",
+    "n_panels": 20,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "skirt_panel_5",
+      "skirt_panel_6",
+      "skirt_panel_7",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_6A3P0TIRME/pattern.json",
+    "n_panels": 28,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_back_1",
+      "skirt_back_2",
+      "skirt_front",
+      "skirt_front_0",
+      "skirt_front_1",
+      "skirt_front_2",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/clo/1015/53d9682f2afc301a/pattern.json",
+    "n_panels": 19,
+    "signature": [
+      "Pattern_19460387",
+      "Pattern_3491483",
+      "Pattern_3491484",
+      "Pattern_55785",
+      "Pattern_55786",
+      "Pattern_55937",
+      "Pattern_59969",
+      "Pattern_59970",
+      "Pattern_59971",
+      "Pattern_59972",
+      "Pattern_60658",
+      "Pattern_60659",
+      "Pattern_60660",
+      "Pattern_60661",
+      "Pattern_61350",
+      "Pattern_62704",
+      "Pattern_63394",
+      "sleeveleft",
+      "sleeveright"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_4TRJ5YJIR5/pattern.json",
+    "n_panels": 28,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_back_0",
+      "skirt_back_1",
+      "skirt_back_2",
+      "skirt_back_3",
+      "skirt_front",
+      "skirt_front_0",
+      "skirt_front_1",
+      "skirt_front_2",
+      "skirt_front_3",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_3CBW1KTWDB/pattern.json",
+    "n_panels": 20,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_CRJNX11FYA/pattern.json",
+    "n_panels": 20,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_hood",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "pant_l_cuff_b",
+      "pant_l_cuff_f",
+      "pant_l_cuff_skirt_b",
+      "pant_l_cuff_skirt_f",
+      "pant_r_cuff_b",
+      "pant_r_cuff_f",
+      "pant_r_cuff_skirt_b",
+      "pant_r_cuff_skirt_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_hood",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_5VQB41E4W8/pattern.json",
+    "n_panels": 26,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "skirt_panel_5",
+      "skirt_panel_6",
+      "skirt_panel_7",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_51618UUNJY/pattern.json",
+    "n_panels": 22,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_3YTFHQ9LFU/pattern.json",
+    "n_panels": 24,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "pant_l_cuff_b",
+      "pant_l_cuff_f",
+      "pant_r_cuff_b",
+      "pant_r_cuff_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_A6TS3MPX2E/pattern.json",
+    "n_panels": 20,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "pant_b_l",
+      "pant_b_r",
+      "pant_f_l",
+      "pant_f_r",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_AP927NWFOI/pattern.json",
+    "n_panels": 23,
+    "signature": [
+      "left_btorso",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_panel_0",
+      "skirt_panel_1",
+      "skirt_panel_2",
+      "skirt_panel_3",
+      "skirt_panel_4",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f",
+      "wb_back",
+      "wb_front"
+    ],
+    "bin": "very_hard"
+  },
+  {
+    "path": "../garment_data/gcd/garments_5000_0/rand_DHUMUX0NYC/pattern.json",
+    "n_panels": 22,
+    "signature": [
+      "left_btorso",
+      "left_collar_back",
+      "left_collar_front",
+      "left_ftorso",
+      "left_sleeve_b",
+      "left_sleeve_f",
+      "right_btorso",
+      "right_collar_back",
+      "right_collar_front",
+      "right_ftorso",
+      "right_sleeve_b",
+      "right_sleeve_f",
+      "skirt_back",
+      "skirt_front",
+      "sl_left_cuff_b",
+      "sl_left_cuff_f",
+      "sl_left_cuff_skirt_b",
+      "sl_left_cuff_skirt_f",
+      "sl_right_cuff_b",
+      "sl_right_cuff_f",
+      "sl_right_cuff_skirt_b",
+      "sl_right_cuff_skirt_f"
+    ],
+    "bin": "very_hard"
+  }
+]

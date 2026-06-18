@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+
+{% block title %}Session {{ session_id }} - Agent Log Visualizer{% endblock %}
+
+{% block header_actions %}
+<a href="/" class="back-btn">← Back to Sessions</a>
+{% endblock %}
+
+{% block content %}
+<h1 style="margin-bottom: 0.5rem; font-weight: 600;">Session: {{ session_id }}</h1>
+
+{% if agents %}
+    <!-- Agent Tabs -->
+    <div class="tabs">
+        {% for agent_name in agents.keys() %}
+        <button class="tab-button {% if loop.first %}active{% endif %}" 
+                onclick="switchTab('{{ agent_name }}', this)">
+            {{ agent_name }}
+        </button>
+        {% endfor %}
+    </div>
+
+    <!-- Tab Content -->
+    {% for agent_name, agent_data in agents.items() %}
+    <div class="tab-content {% if loop.first %}active{% endif %}" id="{{ agent_name }}-content">
+        <!-- File Information -->
+        <div class="file-info">
+            <strong>Input File:</strong> {{ agent_data.input_file }} | 
+            <strong>Response File:</strong> {{ agent_data.response_file }}
+        </div>
+        
+        <!-- Messages -->
+        {% for message in agent_data.messages %}
+        <div class="message-block {{ message.role }}" onclick="toggleCollapse(this)">
+            <div class="message-header">
+                <span class="role-badge {{ message.role }}">{{ message.role }}</span>
+                <span class="collapse-icon">▼</span>
+            </div>
+            <div class="message-content">
+                <div class="content-display">{{ message.content | safe }}</div>
+                
+                {% if message.tool_calls %}
+                <div class="tool-calls">
+                    <h6>Tool Calls:</h6>
+                    {{ message.tool_calls | safe }}
+                </div>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+        
+        {% if not agent_data.messages %}
+        <div class="alert">
+            No messages found for {{ agent_name }}
+        </div>
+        {% endif %}
+    </div>
+    {% endfor %}
+{% else %}
+    <div class="alert">
+        <h4>No Agent Data Found</h4>
+        <p>No agent data was found for session {{ session_id }}. Please check that the log files exist and are properly formatted.</p>
+    </div>
+{% endif %}
+{% endblock %}
+
+{% block scripts %}
+<script>
+function switchTab(agentName, buttonElement) {
+    // Hide all tab contents
+    document.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.remove('active');
+    });
+    
+    // Remove active class from all buttons
+    document.querySelectorAll('.tab-button').forEach(button => {
+        button.classList.remove('active');
+    });
+    
+    // Show selected tab content
+    document.getElementById(agentName + '-content').classList.add('active');
+    
+    // Add active class to clicked button
+    buttonElement.classList.add('active');
+}
+
+function toggleCollapse(element) {
+    element.classList.toggle('collapsed');
+    
+    const content = element.querySelector('.message-content');
+    if (element.classList.contains('collapsed')) {
+        content.style.display = 'none';
+    } else {
+        content.style.display = 'block';
+    }
+}
+
+// Initialize - collapse all blocks by default except the first one in each tab
+document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('.message-block').forEach((block, index) => {
+        // Keep first block in each tab expanded, collapse others
+        const tabContent = block.closest('.tab-content');
+        const blocksInTab = tabContent.querySelectorAll('.message-block');
+        const blockIndex = Array.from(blocksInTab).indexOf(block);
+        
+        if (blockIndex > 0) {
+            block.classList.add('collapsed');
+            block.querySelector('.message-content').style.display = 'none';
+        }
+    });
+});
+</script>
+{% endblock %}

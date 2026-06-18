@@ -1,0 +1,10 @@
+agents:
+  l2_writer:
+    model_name: "mimo-v2.5"
+    base_url: "https://token-plan-cn.xiaomimimo.com/v1"
+    api_key_env: "XIOAMI-API-KEY"
+    system_prompt_path: "prompts/l2_writer.txt"
+    tools: []
+    max_tokens: 16384
+logging:
+  path: "logs/l2_writer"

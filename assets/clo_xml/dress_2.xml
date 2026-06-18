@@ -1,0 +1,2828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pacx Version="3">
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="14" PatternName="noname..M_4" R0="1" R1="5.2198e-05" R2="-5.2198e-05" R3="1" X="1570.67" Y="1416.97">
+            <Arrangement Name="Body_Back_2_R" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="90" PositionY="75" Orientation="180" Offset="50" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-117.545" Y="-201.505" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-117.545" Y="-201.505"/>
+                </Point>
+                <Point X="-35.0549" Y="-202.095" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-35.0549" Y="-202.095"/>
+                </Point>
+                <Point X="-20.0549" Y="-11.5049" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-20.0549" Y="-11.5049"/>
+                </Point>
+                <Point X="-5.05493" Y="-202.095" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-5.05493" Y="-202.095"/>
+                </Point>
+                <Point X="97.4451" Y="-201.505" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="97.4451" Y="-201.505"/>
+                </Point>
+                <Point X="117.555" Y="-30.635" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="117.555" Y="-30.635"/>
+                </Point>
+                <Point X="87.4751" Y="154.895" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="87.4751" Y="154.895"/>
+                </Point>
+                <Point X="12.2749" Y="181.385" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="12.2749" Y="181.385"/>
+                </Point>
+                <Point X="-18.0049" Y="117.935" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-18.0049" Y="117.935"/>
+                </Point>
+                <Point X="-1.875" Y="186.365" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-1.875" Y="186.365"/>
+                </Point>
+                <Point X="-22.9734" Y="193.793" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-22.9734" Y="193.793"/>
+                </Point>
+                <Point X="-117.555" Y="169.961" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-117.555" Y="169.961"/>
+                </Point>
+                <Point X="109.165" Y="-27.6205" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="109.165" Y="-27.6205"/>
+                </Point>
+                <Point X="101.439" Y="-23.1906" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="101.439" Y="-23.1906"/>
+                </Point>
+                <Point X="84.5992" Y="-5.48413" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="84.5992" Y="-5.48413"/>
+                </Point>
+                <Point X="72.3726" Y="15.5736" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="72.3726" Y="15.5736"/>
+                </Point>
+                <Point X="67.1689" Y="50.614" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="67.1689" Y="50.614"/>
+                </Point>
+                <Point X="69.8525" Y="86.071" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="69.8525" Y="86.071"/>
+                </Point>
+                <Point X="76.8582" Y="120.947" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="76.8582" Y="120.947"/>
+                </Point>
+                <Point X="-67.0566" Y="172.822" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-67.0566" Y="172.822"/>
+                </Point>
+            </PointList>
+            <Line GID="27" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="28" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="29" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="30" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="31" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+            </Line>
+            <Line GID="32" PatternGID="14" Type="2" bLockState="false">
+                <PointIndex Index="5"/>
+                <PointIndex Index="12"/>
+                <PointIndex Index="13"/>
+                <PointIndex Index="14"/>
+                <PointIndex Index="15"/>
+                <PointIndex Index="16"/>
+                <PointIndex Index="17"/>
+                <PointIndex Index="18"/>
+                <PointIndex Index="6"/>
+            </Line>
+            <Line GID="33" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="6"/>
+                <PointIndex Index="7"/>
+            </Line>
+            <Line GID="34" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="7"/>
+                <PointIndex Index="8"/>
+            </Line>
+            <Line GID="35" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="8"/>
+                <PointIndex Index="9"/>
+            </Line>
+            <Line GID="36" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="9"/>
+                <PointIndex Index="10"/>
+            </Line>
+            <Line GID="37" PatternGID="14" Type="2" bLockState="false">
+                <PointIndex Index="10"/>
+                <PointIndex Index="19"/>
+                <PointIndex Index="11"/>
+            </Line>
+            <Line GID="38" PatternGID="14" Type="0" bLockState="false">
+                <PointIndex Index="11"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="15" PatternName="noname..M_5" R0="1" R1="0" R2="0" R3="1" X="1584.89" Y="878.624">
+            <Arrangement Name="Leg_Skirt_Back_L" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="40" PositionY="80" Orientation="180" Offset="64" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-113.273" Y="259.315" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="259.315"/>
+                </Point>
+                <Point X="-195.753" Y="260.995" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-195.753" Y="260.995"/>
+                </Point>
+                <Point X="-210.723" Y="150.985" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-210.723" Y="150.985"/>
+                </Point>
+                <Point X="-225.753" Y="260.985" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-225.753" Y="260.985"/>
+                </Point>
+                <Point X="-326.343" Y="280.685" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-326.343" Y="280.685"/>
+                </Point>
+                <Point X="-338.273" Y="-273.685" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-273.685"/>
+                </Point>
+                <Point X="-113.273" Y="-273.685" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-273.685"/>
+                </Point>
+                <Point X="-115.427" Y="259.319" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-115.427" Y="259.319"/>
+                </Point>
+                <Point X="-125.478" Y="259.313" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-125.478" Y="259.313"/>
+                </Point>
+                <Point X="-135.661" Y="259.267" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-135.661" Y="259.267"/>
+                </Point>
+                <Point X="-145.843" Y="259.244" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-145.843" Y="259.244"/>
+                </Point>
+                <Point X="-235.997" Y="262.457" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-235.997" Y="262.457"/>
+                </Point>
+                <Point X="-246.006" Y="263.927" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-246.006" Y="263.927"/>
+                </Point>
+                <Point X="-255.97" Y="265.434" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-255.97" Y="265.434"/>
+                </Point>
+                <Point X="-291.384" Y="271.996" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-291.384" Y="271.996"/>
+                </Point>
+                <Point X="-335.204" Y="230.111" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-335.204" Y="230.111"/>
+                </Point>
+                <Point X="-339.332" Y="178.942" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-339.332" Y="178.942"/>
+                </Point>
+                <Point X="-339.613" Y="127.594" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-339.613" Y="127.594"/>
+                </Point>
+                <Point X="-339.384" Y="117.37" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-339.384" Y="117.37"/>
+                </Point>
+                <Point X="-339.115" Y="107.147" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-339.115" Y="107.147"/>
+                </Point>
+                <Point X="-338.846" Y="96.9233" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.846" Y="96.9233"/>
+                </Point>
+                <Point X="-338.616" Y="86.7206" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.616" Y="86.7206"/>
+                </Point>
+                <Point X="-338.444" Y="76.4951" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.444" Y="76.4951"/>
+                </Point>
+                <Point X="-338.328" Y="66.2687" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.328" Y="66.2687"/>
+                </Point>
+                <Point X="-338.266" Y="56.0468" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.266" Y="56.0468"/>
+                </Point>
+                <Point X="-338.249" Y="45.8198" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.249" Y="45.8198"/>
+                </Point>
+                <Point X="-338.259" Y="35.593" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.259" Y="35.593"/>
+                </Point>
+                <Point X="-338.274" Y="25.2722" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.274" Y="25.2722"/>
+                </Point>
+                <Point X="-338.279" Y="15.0451" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.279" Y="15.0451"/>
+                </Point>
+                <Point X="-338.277" Y="4.8183" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.277" Y="4.8183"/>
+                </Point>
+                <Point X="-338.273" Y="-5.24396" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-5.24396"/>
+                </Point>
+                <Point X="-338.271" Y="-15.4708" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.271" Y="-15.4708"/>
+                </Point>
+                <Point X="-338.272" Y="-25.6976" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.272" Y="-25.6976"/>
+                </Point>
+                <Point X="-338.273" Y="-35.9246" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-35.9246"/>
+                </Point>
+                <Point X="-338.273" Y="-46.2625" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-46.2625"/>
+                </Point>
+                <Point X="-338.273" Y="-56.4893" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-56.4893"/>
+                </Point>
+                <Point X="-338.273" Y="-66.7164" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-66.7164"/>
+                </Point>
+                <Point X="-338.273" Y="-77.0057" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-77.0057"/>
+                </Point>
+                <Point X="-338.273" Y="-87.2327" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-87.2327"/>
+                </Point>
+                <Point X="-338.273" Y="-97.4595" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-97.4595"/>
+                </Point>
+                <Point X="-338.273" Y="-107.589" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-107.589"/>
+                </Point>
+                <Point X="-338.273" Y="-117.816" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-117.816"/>
+                </Point>
+                <Point X="-338.273" Y="-128.043" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-128.043"/>
+                </Point>
+                <Point X="-338.273" Y="-138.169" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-138.169"/>
+                </Point>
+                <Point X="-338.273" Y="-148.397" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-148.397"/>
+                </Point>
+                <Point X="-338.273" Y="-158.623" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-158.623"/>
+                </Point>
+                <Point X="-338.273" Y="-168.905" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-168.905"/>
+                </Point>
+                <Point X="-338.273" Y="-179.132" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-179.132"/>
+                </Point>
+                <Point X="-338.273" Y="-189.359" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-189.359"/>
+                </Point>
+                <Point X="-338.273" Y="-199.683" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-199.683"/>
+                </Point>
+                <Point X="-338.273" Y="-209.91" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-209.91"/>
+                </Point>
+                <Point X="-338.273" Y="-220.137" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-220.137"/>
+                </Point>
+                <Point X="-338.273" Y="-230.177" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-230.177"/>
+                </Point>
+                <Point X="-338.273" Y="-240.404" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-240.404"/>
+                </Point>
+                <Point X="-338.273" Y="-250.631" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-250.631"/>
+                </Point>
+                <Point X="-338.273" Y="-260.911" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-260.911"/>
+                </Point>
+                <Point X="-113.273" Y="-268.323" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-268.323"/>
+                </Point>
+                <Point X="-113.273" Y="-258.159" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-258.159"/>
+                </Point>
+                <Point X="-113.273" Y="-247.956" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-247.956"/>
+                </Point>
+                <Point X="-113.273" Y="-237.83" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-237.83"/>
+                </Point>
+                <Point X="-113.273" Y="-227.704" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-227.704"/>
+                </Point>
+                <Point X="-113.273" Y="-217.514" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-217.514"/>
+                </Point>
+                <Point X="-113.273" Y="-207.388" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-207.388"/>
+                </Point>
+                <Point X="-113.273" Y="-197.262" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-197.262"/>
+                </Point>
+                <Point X="-113.273" Y="-187.089" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-187.089"/>
+                </Point>
+                <Point X="-113.273" Y="-176.962" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-176.962"/>
+                </Point>
+                <Point X="-113.273" Y="-166.836" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-166.836"/>
+                </Point>
+                <Point X="-113.273" Y="-156.651" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-156.651"/>
+                </Point>
+                <Point X="-113.273" Y="-146.525" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-146.525"/>
+                </Point>
+                <Point X="-113.273" Y="-136.399" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-136.399"/>
+                </Point>
+                <Point X="-113.273" Y="-126.272" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-126.272"/>
+                </Point>
+                <Point X="-113.273" Y="-116.224" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-116.224"/>
+                </Point>
+                <Point X="-113.273" Y="-106.098" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-106.098"/>
+                </Point>
+                <Point X="-113.273" Y="-95.623" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-95.623"/>
+                </Point>
+                <Point X="-113.273" Y="-85.792" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-85.792"/>
+                </Point>
+                <Point X="-113.273" Y="-75.666" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-75.666"/>
+                </Point>
+                <Point X="-113.273" Y="-65.54" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-65.54"/>
+                </Point>
+                <Point X="-113.273" Y="-55.3594" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-55.3594"/>
+                </Point>
+                <Point X="-113.273" Y="-45.2332" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-45.2332"/>
+                </Point>
+                <Point X="-113.273" Y="-35.1072" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-35.1072"/>
+                </Point>
+                <Point X="-113.273" Y="-24.9822" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-24.9822"/>
+                </Point>
+                <Point X="-113.273" Y="-14.8562" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-14.8562"/>
+                </Point>
+                <Point X="-113.273" Y="-4.73022" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-4.73022"/>
+                </Point>
+                <Point X="-113.273" Y="5.38013" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="5.38013"/>
+                </Point>
+                <Point X="-113.273" Y="15.5061" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="15.5061"/>
+                </Point>
+                <Point X="-113.273" Y="25.6321" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="25.6321"/>
+                </Point>
+                <Point X="-113.273" Y="35.9441" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="35.9441"/>
+                </Point>
+                <Point X="-113.273" Y="46.0701" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="46.0701"/>
+                </Point>
+                <Point X="-113.273" Y="56.196" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="56.196"/>
+                </Point>
+                <Point X="-113.273" Y="66.322" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="66.322"/>
+                </Point>
+                <Point X="-113.273" Y="76.3662" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="76.3662"/>
+                </Point>
+                <Point X="-113.273" Y="86.4924" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="86.4924"/>
+                </Point>
+                <Point X="-113.273" Y="96.9675" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="96.9675"/>
+                </Point>
+                <Point X="-113.273" Y="106.852" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="106.852"/>
+                </Point>
+                <Point X="-113.273" Y="116.978" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="116.978"/>
+                </Point>
+                <Point X="-113.273" Y="127.104" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="127.104"/>
+                </Point>
+                <Point X="-113.273" Y="137.145" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="137.145"/>
+                </Point>
+                <Point X="-113.273" Y="147.27" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="147.27"/>
+                </Point>
+                <Point X="-113.273" Y="157.397" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="157.397"/>
+                </Point>
+                <Point X="-113.273" Y="167.558" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="167.558"/>
+                </Point>
+                <Point X="-113.273" Y="177.684" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="177.684"/>
+                </Point>
+                <Point X="-113.273" Y="187.81" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="187.81"/>
+                </Point>
+                <Point X="-113.273" Y="198.03" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="198.03"/>
+                </Point>
+                <Point X="-113.273" Y="208.156" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="208.156"/>
+                </Point>
+                <Point X="-113.273" Y="218.283" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="218.283"/>
+                </Point>
+                <Point X="-113.273" Y="228.5" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="228.5"/>
+                </Point>
+                <Point X="-113.273" Y="238.684" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="238.684"/>
+                </Point>
+                <Point X="-113.273" Y="248.797" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="248.797"/>
+                </Point>
+            </PointList>
+            <Line GID="39" PatternGID="15" Type="2" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="7"/>
+                <PointIndex Index="8"/>
+                <PointIndex Index="9"/>
+                <PointIndex Index="10"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="40" PatternGID="15" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="41" PatternGID="15" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="42" PatternGID="15" Type="2" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="11"/>
+                <PointIndex Index="12"/>
+                <PointIndex Index="13"/>
+                <PointIndex Index="14"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="43" PatternGID="15" Type="2" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="15"/>
+                <PointIndex Index="16"/>
+                <PointIndex Index="17"/>
+                <PointIndex Index="18"/>
+                <PointIndex Index="19"/>
+                <PointIndex Index="20"/>
+                <PointIndex Index="21"/>
+                <PointIndex Index="22"/>
+                <PointIndex Index="23"/>
+                <PointIndex Index="24"/>
+                <PointIndex Index="25"/>
+                <PointIndex Index="26"/>
+                <PointIndex Index="27"/>
+                <PointIndex Index="28"/>
+                <PointIndex Index="29"/>
+                <PointIndex Index="30"/>
+                <PointIndex Index="31"/>
+                <PointIndex Index="32"/>
+                <PointIndex Index="33"/>
+                <PointIndex Index="34"/>
+                <PointIndex Index="35"/>
+                <PointIndex Index="36"/>
+                <PointIndex Index="37"/>
+                <PointIndex Index="38"/>
+                <PointIndex Index="39"/>
+                <PointIndex Index="40"/>
+                <PointIndex Index="41"/>
+                <PointIndex Index="42"/>
+                <PointIndex Index="43"/>
+                <PointIndex Index="44"/>
+                <PointIndex Index="45"/>
+                <PointIndex Index="46"/>
+                <PointIndex Index="47"/>
+                <PointIndex Index="48"/>
+                <PointIndex Index="49"/>
+                <PointIndex Index="50"/>
+                <PointIndex Index="51"/>
+                <PointIndex Index="52"/>
+                <PointIndex Index="53"/>
+                <PointIndex Index="54"/>
+                <PointIndex Index="55"/>
+                <PointIndex Index="5"/>
+            </Line>
+            <Line GID="44" PatternGID="15" Type="0" bLockState="false">
+                <PointIndex Index="5"/>
+                <PointIndex Index="6"/>
+            </Line>
+            <Line GID="45" PatternGID="15" Type="2" bLockState="false">
+                <PointIndex Index="6"/>
+                <PointIndex Index="56"/>
+                <PointIndex Index="57"/>
+                <PointIndex Index="58"/>
+                <PointIndex Index="59"/>
+                <PointIndex Index="60"/>
+                <PointIndex Index="61"/>
+                <PointIndex Index="62"/>
+                <PointIndex Index="63"/>
+                <PointIndex Index="64"/>
+                <PointIndex Index="65"/>
+                <PointIndex Index="66"/>
+                <PointIndex Index="67"/>
+                <PointIndex Index="68"/>
+                <PointIndex Index="69"/>
+                <PointIndex Index="70"/>
+                <PointIndex Index="71"/>
+                <PointIndex Index="72"/>
+                <PointIndex Index="73"/>
+                <PointIndex Index="74"/>
+                <PointIndex Index="75"/>
+                <PointIndex Index="76"/>
+                <PointIndex Index="77"/>
+                <PointIndex Index="78"/>
+                <PointIndex Index="79"/>
+                <PointIndex Index="80"/>
+                <PointIndex Index="81"/>
+                <PointIndex Index="82"/>
+                <PointIndex Index="83"/>
+                <PointIndex Index="84"/>
+                <PointIndex Index="85"/>
+                <PointIndex Index="86"/>
+                <PointIndex Index="87"/>
+                <PointIndex Index="88"/>
+                <PointIndex Index="89"/>
+                <PointIndex Index="90"/>
+                <PointIndex Index="91"/>
+                <PointIndex Index="92"/>
+                <PointIndex Index="93"/>
+                <PointIndex Index="94"/>
+                <PointIndex Index="95"/>
+                <PointIndex Index="96"/>
+                <PointIndex Index="97"/>
+                <PointIndex Index="98"/>
+                <PointIndex Index="99"/>
+                <PointIndex Index="100"/>
+                <PointIndex Index="101"/>
+                <PointIndex Index="102"/>
+                <PointIndex Index="103"/>
+                <PointIndex Index="104"/>
+                <PointIndex Index="105"/>
+                <PointIndex Index="106"/>
+                <PointIndex Index="107"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="16" PatternName="noname..M_1" R0="-1" R1="-5.2198e-05" R2="-5.2198e-05" R3="1" X="1320.41" Y="1416.96">
+            <Arrangement Name="Body_Back_2_L" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="90" PositionY="75" Orientation="180" Offset="50" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-117.545" Y="-201.505" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-117.545" Y="-201.505"/>
+                </Point>
+                <Point X="-35.0549" Y="-202.095" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-35.0549" Y="-202.095"/>
+                </Point>
+                <Point X="-20.0549" Y="-11.5049" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-20.0549" Y="-11.5049"/>
+                </Point>
+                <Point X="-5.05493" Y="-202.095" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-5.05493" Y="-202.095"/>
+                </Point>
+                <Point X="97.4451" Y="-201.505" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="97.4451" Y="-201.505"/>
+                </Point>
+                <Point X="117.555" Y="-30.635" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="117.555" Y="-30.635"/>
+                </Point>
+                <Point X="87.4751" Y="154.895" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="87.4751" Y="154.895"/>
+                </Point>
+                <Point X="12.2749" Y="181.385" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="12.2749" Y="181.385"/>
+                </Point>
+                <Point X="-18.0049" Y="117.935" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-18.0049" Y="117.935"/>
+                </Point>
+                <Point X="-1.875" Y="186.365" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-1.875" Y="186.365"/>
+                </Point>
+                <Point X="-22.9734" Y="193.793" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-22.9734" Y="193.793"/>
+                </Point>
+                <Point X="-117.555" Y="169.961" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-117.555" Y="169.961"/>
+                </Point>
+                <Point X="109.165" Y="-27.6205" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="109.165" Y="-27.6205"/>
+                </Point>
+                <Point X="101.439" Y="-23.1906" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="101.439" Y="-23.1906"/>
+                </Point>
+                <Point X="84.5992" Y="-5.48413" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="84.5992" Y="-5.48413"/>
+                </Point>
+                <Point X="72.3726" Y="15.5736" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="72.3726" Y="15.5736"/>
+                </Point>
+                <Point X="67.1689" Y="50.614" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="67.1689" Y="50.614"/>
+                </Point>
+                <Point X="69.8525" Y="86.071" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="69.8525" Y="86.071"/>
+                </Point>
+                <Point X="76.8582" Y="120.947" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="76.8582" Y="120.947"/>
+                </Point>
+                <Point X="-67.0566" Y="172.822" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-67.0566" Y="172.822"/>
+                </Point>
+            </PointList>
+            <Line GID="46" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="47" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="48" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="49" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="50" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+            </Line>
+            <Line GID="51" PatternGID="16" Type="2" bLockState="false">
+                <PointIndex Index="5"/>
+                <PointIndex Index="12"/>
+                <PointIndex Index="13"/>
+                <PointIndex Index="14"/>
+                <PointIndex Index="15"/>
+                <PointIndex Index="16"/>
+                <PointIndex Index="17"/>
+                <PointIndex Index="18"/>
+                <PointIndex Index="6"/>
+            </Line>
+            <Line GID="52" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="6"/>
+                <PointIndex Index="7"/>
+            </Line>
+            <Line GID="53" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="7"/>
+                <PointIndex Index="8"/>
+            </Line>
+            <Line GID="54" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="8"/>
+                <PointIndex Index="9"/>
+            </Line>
+            <Line GID="55" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="9"/>
+                <PointIndex Index="10"/>
+            </Line>
+            <Line GID="56" PatternGID="16" Type="2" bLockState="false">
+                <PointIndex Index="10"/>
+                <PointIndex Index="19"/>
+                <PointIndex Index="11"/>
+            </Line>
+            <Line GID="57" PatternGID="16" Type="0" bLockState="false">
+                <PointIndex Index="11"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="17" PatternName="noname..M_6" R0="-1" R1="0" R2="0" R3="1" X="1371" Y="878.624">
+            <Arrangement Name="Leg_Skirt_Back_R" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="40" PositionY="80" Orientation="180" Offset="64" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-113.273" Y="259.315" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="259.315"/>
+                </Point>
+                <Point X="-195.753" Y="260.995" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-195.753" Y="260.995"/>
+                </Point>
+                <Point X="-210.723" Y="150.985" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-210.723" Y="150.985"/>
+                </Point>
+                <Point X="-225.753" Y="260.985" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-225.753" Y="260.985"/>
+                </Point>
+                <Point X="-326.343" Y="280.685" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-326.343" Y="280.685"/>
+                </Point>
+                <Point X="-338.273" Y="-273.685" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-273.685"/>
+                </Point>
+                <Point X="-113.273" Y="-273.685" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-273.685"/>
+                </Point>
+                <Point X="-115.427" Y="259.319" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-115.427" Y="259.319"/>
+                </Point>
+                <Point X="-125.478" Y="259.313" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-125.478" Y="259.313"/>
+                </Point>
+                <Point X="-135.661" Y="259.267" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-135.661" Y="259.267"/>
+                </Point>
+                <Point X="-145.843" Y="259.244" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-145.843" Y="259.244"/>
+                </Point>
+                <Point X="-235.997" Y="262.457" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-235.997" Y="262.457"/>
+                </Point>
+                <Point X="-246.006" Y="263.927" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-246.006" Y="263.927"/>
+                </Point>
+                <Point X="-255.97" Y="265.434" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-255.97" Y="265.434"/>
+                </Point>
+                <Point X="-291.384" Y="271.996" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-291.384" Y="271.996"/>
+                </Point>
+                <Point X="-335.204" Y="230.111" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-335.204" Y="230.111"/>
+                </Point>
+                <Point X="-339.332" Y="178.942" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-339.332" Y="178.942"/>
+                </Point>
+                <Point X="-339.613" Y="127.594" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-339.613" Y="127.594"/>
+                </Point>
+                <Point X="-339.384" Y="117.37" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-339.384" Y="117.37"/>
+                </Point>
+                <Point X="-339.115" Y="107.147" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-339.115" Y="107.147"/>
+                </Point>
+                <Point X="-338.846" Y="96.9233" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.846" Y="96.9233"/>
+                </Point>
+                <Point X="-338.616" Y="86.7206" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.616" Y="86.7206"/>
+                </Point>
+                <Point X="-338.444" Y="76.4951" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.444" Y="76.4951"/>
+                </Point>
+                <Point X="-338.328" Y="66.2687" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.328" Y="66.2687"/>
+                </Point>
+                <Point X="-338.266" Y="56.0468" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.266" Y="56.0468"/>
+                </Point>
+                <Point X="-338.249" Y="45.8198" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.249" Y="45.8198"/>
+                </Point>
+                <Point X="-338.259" Y="35.593" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.259" Y="35.593"/>
+                </Point>
+                <Point X="-338.274" Y="25.2722" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.274" Y="25.2722"/>
+                </Point>
+                <Point X="-338.279" Y="15.0451" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.279" Y="15.0451"/>
+                </Point>
+                <Point X="-338.277" Y="4.8183" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.277" Y="4.8183"/>
+                </Point>
+                <Point X="-338.273" Y="-5.24396" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-5.24396"/>
+                </Point>
+                <Point X="-338.271" Y="-15.4708" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.271" Y="-15.4708"/>
+                </Point>
+                <Point X="-338.272" Y="-25.6976" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.272" Y="-25.6976"/>
+                </Point>
+                <Point X="-338.273" Y="-35.9246" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-35.9246"/>
+                </Point>
+                <Point X="-338.273" Y="-46.2625" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-46.2625"/>
+                </Point>
+                <Point X="-338.273" Y="-56.4893" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-56.4893"/>
+                </Point>
+                <Point X="-338.273" Y="-66.7164" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-66.7164"/>
+                </Point>
+                <Point X="-338.273" Y="-77.0057" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-77.0057"/>
+                </Point>
+                <Point X="-338.273" Y="-87.2327" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-87.2327"/>
+                </Point>
+                <Point X="-338.273" Y="-97.4595" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-97.4595"/>
+                </Point>
+                <Point X="-338.273" Y="-107.589" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-107.589"/>
+                </Point>
+                <Point X="-338.273" Y="-117.816" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-117.816"/>
+                </Point>
+                <Point X="-338.273" Y="-128.043" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-128.043"/>
+                </Point>
+                <Point X="-338.273" Y="-138.169" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-138.169"/>
+                </Point>
+                <Point X="-338.273" Y="-148.397" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-148.397"/>
+                </Point>
+                <Point X="-338.273" Y="-158.623" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-158.623"/>
+                </Point>
+                <Point X="-338.273" Y="-168.905" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-168.905"/>
+                </Point>
+                <Point X="-338.273" Y="-179.132" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-179.132"/>
+                </Point>
+                <Point X="-338.273" Y="-189.359" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-189.359"/>
+                </Point>
+                <Point X="-338.273" Y="-199.683" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-199.683"/>
+                </Point>
+                <Point X="-338.273" Y="-209.91" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-209.91"/>
+                </Point>
+                <Point X="-338.273" Y="-220.137" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-220.137"/>
+                </Point>
+                <Point X="-338.273" Y="-230.177" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-230.177"/>
+                </Point>
+                <Point X="-338.273" Y="-240.404" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-240.404"/>
+                </Point>
+                <Point X="-338.273" Y="-250.631" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-250.631"/>
+                </Point>
+                <Point X="-338.273" Y="-260.911" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-338.273" Y="-260.911"/>
+                </Point>
+                <Point X="-113.273" Y="-268.323" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-268.323"/>
+                </Point>
+                <Point X="-113.273" Y="-258.159" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-258.159"/>
+                </Point>
+                <Point X="-113.273" Y="-247.956" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-247.956"/>
+                </Point>
+                <Point X="-113.273" Y="-237.83" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-237.83"/>
+                </Point>
+                <Point X="-113.273" Y="-227.704" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-227.704"/>
+                </Point>
+                <Point X="-113.273" Y="-217.514" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-217.514"/>
+                </Point>
+                <Point X="-113.273" Y="-207.388" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-207.388"/>
+                </Point>
+                <Point X="-113.273" Y="-197.262" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-197.262"/>
+                </Point>
+                <Point X="-113.273" Y="-187.089" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-187.089"/>
+                </Point>
+                <Point X="-113.273" Y="-176.962" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-176.962"/>
+                </Point>
+                <Point X="-113.273" Y="-166.836" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-166.836"/>
+                </Point>
+                <Point X="-113.273" Y="-156.651" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-156.651"/>
+                </Point>
+                <Point X="-113.273" Y="-146.525" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-146.525"/>
+                </Point>
+                <Point X="-113.273" Y="-136.399" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-136.399"/>
+                </Point>
+                <Point X="-113.273" Y="-126.272" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-126.272"/>
+                </Point>
+                <Point X="-113.273" Y="-116.224" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-116.224"/>
+                </Point>
+                <Point X="-113.273" Y="-106.098" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-106.098"/>
+                </Point>
+                <Point X="-113.273" Y="-95.623" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-95.623"/>
+                </Point>
+                <Point X="-113.273" Y="-85.792" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-85.792"/>
+                </Point>
+                <Point X="-113.273" Y="-75.666" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-75.666"/>
+                </Point>
+                <Point X="-113.273" Y="-65.54" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-65.54"/>
+                </Point>
+                <Point X="-113.273" Y="-55.3594" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-55.3594"/>
+                </Point>
+                <Point X="-113.273" Y="-45.2332" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-45.2332"/>
+                </Point>
+                <Point X="-113.273" Y="-35.1072" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-35.1072"/>
+                </Point>
+                <Point X="-113.273" Y="-24.9822" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-24.9822"/>
+                </Point>
+                <Point X="-113.273" Y="-14.8562" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-14.8562"/>
+                </Point>
+                <Point X="-113.273" Y="-4.73022" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="-4.73022"/>
+                </Point>
+                <Point X="-113.273" Y="5.38013" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="5.38013"/>
+                </Point>
+                <Point X="-113.273" Y="15.5061" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="15.5061"/>
+                </Point>
+                <Point X="-113.273" Y="25.6321" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="25.6321"/>
+                </Point>
+                <Point X="-113.273" Y="35.9441" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="35.9441"/>
+                </Point>
+                <Point X="-113.273" Y="46.0701" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="46.0701"/>
+                </Point>
+                <Point X="-113.273" Y="56.196" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="56.196"/>
+                </Point>
+                <Point X="-113.273" Y="66.322" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="66.322"/>
+                </Point>
+                <Point X="-113.273" Y="76.3662" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="76.3662"/>
+                </Point>
+                <Point X="-113.273" Y="86.4924" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="86.4924"/>
+                </Point>
+                <Point X="-113.273" Y="96.9675" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="96.9675"/>
+                </Point>
+                <Point X="-113.273" Y="106.852" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="106.852"/>
+                </Point>
+                <Point X="-113.273" Y="116.978" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="116.978"/>
+                </Point>
+                <Point X="-113.273" Y="127.104" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="127.104"/>
+                </Point>
+                <Point X="-113.273" Y="137.145" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="137.145"/>
+                </Point>
+                <Point X="-113.273" Y="147.27" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="147.27"/>
+                </Point>
+                <Point X="-113.273" Y="157.397" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="157.397"/>
+                </Point>
+                <Point X="-113.273" Y="167.558" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="167.558"/>
+                </Point>
+                <Point X="-113.273" Y="177.684" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="177.684"/>
+                </Point>
+                <Point X="-113.273" Y="187.81" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="187.81"/>
+                </Point>
+                <Point X="-113.273" Y="198.03" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="198.03"/>
+                </Point>
+                <Point X="-113.273" Y="208.156" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="208.156"/>
+                </Point>
+                <Point X="-113.273" Y="218.283" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="218.283"/>
+                </Point>
+                <Point X="-113.273" Y="228.5" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="228.5"/>
+                </Point>
+                <Point X="-113.273" Y="238.684" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="238.684"/>
+                </Point>
+                <Point X="-113.273" Y="248.797" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.273" Y="248.797"/>
+                </Point>
+            </PointList>
+            <Line GID="58" PatternGID="17" Type="2" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="7"/>
+                <PointIndex Index="8"/>
+                <PointIndex Index="9"/>
+                <PointIndex Index="10"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="59" PatternGID="17" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="60" PatternGID="17" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="61" PatternGID="17" Type="2" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="11"/>
+                <PointIndex Index="12"/>
+                <PointIndex Index="13"/>
+                <PointIndex Index="14"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="62" PatternGID="17" Type="2" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="15"/>
+                <PointIndex Index="16"/>
+                <PointIndex Index="17"/>
+                <PointIndex Index="18"/>
+                <PointIndex Index="19"/>
+                <PointIndex Index="20"/>
+                <PointIndex Index="21"/>
+                <PointIndex Index="22"/>
+                <PointIndex Index="23"/>
+                <PointIndex Index="24"/>
+                <PointIndex Index="25"/>
+                <PointIndex Index="26"/>
+                <PointIndex Index="27"/>
+                <PointIndex Index="28"/>
+                <PointIndex Index="29"/>
+                <PointIndex Index="30"/>
+                <PointIndex Index="31"/>
+                <PointIndex Index="32"/>
+                <PointIndex Index="33"/>
+                <PointIndex Index="34"/>
+                <PointIndex Index="35"/>
+                <PointIndex Index="36"/>
+                <PointIndex Index="37"/>
+                <PointIndex Index="38"/>
+                <PointIndex Index="39"/>
+                <PointIndex Index="40"/>
+                <PointIndex Index="41"/>
+                <PointIndex Index="42"/>
+                <PointIndex Index="43"/>
+                <PointIndex Index="44"/>
+                <PointIndex Index="45"/>
+                <PointIndex Index="46"/>
+                <PointIndex Index="47"/>
+                <PointIndex Index="48"/>
+                <PointIndex Index="49"/>
+                <PointIndex Index="50"/>
+                <PointIndex Index="51"/>
+                <PointIndex Index="52"/>
+                <PointIndex Index="53"/>
+                <PointIndex Index="54"/>
+                <PointIndex Index="55"/>
+                <PointIndex Index="5"/>
+            </Line>
+            <Line GID="63" PatternGID="17" Type="0" bLockState="false">
+                <PointIndex Index="5"/>
+                <PointIndex Index="6"/>
+            </Line>
+            <Line GID="64" PatternGID="17" Type="2" bLockState="false">
+                <PointIndex Index="6"/>
+                <PointIndex Index="56"/>
+                <PointIndex Index="57"/>
+                <PointIndex Index="58"/>
+                <PointIndex Index="59"/>
+                <PointIndex Index="60"/>
+                <PointIndex Index="61"/>
+                <PointIndex Index="62"/>
+                <PointIndex Index="63"/>
+                <PointIndex Index="64"/>
+                <PointIndex Index="65"/>
+                <PointIndex Index="66"/>
+                <PointIndex Index="67"/>
+                <PointIndex Index="68"/>
+                <PointIndex Index="69"/>
+                <PointIndex Index="70"/>
+                <PointIndex Index="71"/>
+                <PointIndex Index="72"/>
+                <PointIndex Index="73"/>
+                <PointIndex Index="74"/>
+                <PointIndex Index="75"/>
+                <PointIndex Index="76"/>
+                <PointIndex Index="77"/>
+                <PointIndex Index="78"/>
+                <PointIndex Index="79"/>
+                <PointIndex Index="80"/>
+                <PointIndex Index="81"/>
+                <PointIndex Index="82"/>
+                <PointIndex Index="83"/>
+                <PointIndex Index="84"/>
+                <PointIndex Index="85"/>
+                <PointIndex Index="86"/>
+                <PointIndex Index="87"/>
+                <PointIndex Index="88"/>
+                <PointIndex Index="89"/>
+                <PointIndex Index="90"/>
+                <PointIndex Index="91"/>
+                <PointIndex Index="92"/>
+                <PointIndex Index="93"/>
+                <PointIndex Index="94"/>
+                <PointIndex Index="95"/>
+                <PointIndex Index="96"/>
+                <PointIndex Index="97"/>
+                <PointIndex Index="98"/>
+                <PointIndex Index="99"/>
+                <PointIndex Index="100"/>
+                <PointIndex Index="101"/>
+                <PointIndex Index="102"/>
+                <PointIndex Index="103"/>
+                <PointIndex Index="104"/>
+                <PointIndex Index="105"/>
+                <PointIndex Index="106"/>
+                <PointIndex Index="107"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="18" PatternName="noname..M_7" R0="1" R1="0" R2="0" R3="1" X="231.066" Y="1109.91">
+            <Arrangement Name="Body_Side_L" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="70" PositionY="55" Orientation="180" Offset="50" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="347.981" Y="71.6296" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.981" Y="71.6296"/>
+                </Point>
+                <Point X="348.305" Y="113.6" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="348.305" Y="113.6"/>
+                </Point>
+                <Point X="235.425" Y="165.2" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="235.425" Y="165.2"/>
+                </Point>
+                <Point X="238.705" Y="121.886" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="238.705" Y="121.886"/>
+                </Point>
+                <Point X="347.667" Y="74.3329" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.667" Y="74.3329"/>
+                </Point>
+                <Point X="347.414" Y="77.0425" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.414" Y="77.0425"/>
+                </Point>
+                <Point X="347.225" Y="79.7573" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.225" Y="79.7573"/>
+                </Point>
+                <Point X="347.096" Y="82.4757" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.096" Y="82.4757"/>
+                </Point>
+                <Point X="346.996" Y="87.9174" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="346.996" Y="87.9174"/>
+                </Point>
+            </PointList>
+            <Line GID="65" PatternGID="18" Type="2" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="6"/>
+                <PointIndex Index="7"/>
+                <PointIndex Index="8"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="66" PatternGID="18" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="67" PatternGID="18" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="68" PatternGID="18" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="21" PatternName="noname..M_3" R0="-1" R1="0" R2="0" R3="1" X="200.318" Y="1119.39">
+            <Arrangement Name="Body_Side_R" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="70" PositionY="55" Orientation="180" Offset="50" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="347.981" Y="71.6296" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.981" Y="71.6296"/>
+                </Point>
+                <Point X="348.305" Y="113.6" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="348.305" Y="113.6"/>
+                </Point>
+                <Point X="235.425" Y="165.2" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="235.425" Y="165.2"/>
+                </Point>
+                <Point X="238.705" Y="121.886" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="238.705" Y="121.886"/>
+                </Point>
+                <Point X="347.667" Y="74.3329" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.667" Y="74.3329"/>
+                </Point>
+                <Point X="347.414" Y="77.0425" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.414" Y="77.0425"/>
+                </Point>
+                <Point X="347.225" Y="79.7573" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.225" Y="79.7573"/>
+                </Point>
+                <Point X="347.096" Y="82.4757" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.096" Y="82.4757"/>
+                </Point>
+                <Point X="346.996" Y="87.9174" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="346.996" Y="87.9174"/>
+                </Point>
+            </PointList>
+            <Line GID="69" PatternGID="21" Type="2" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="6"/>
+                <PointIndex Index="7"/>
+                <PointIndex Index="8"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="70" PatternGID="21" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="71" PatternGID="21" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="72" PatternGID="21" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="23" PatternName="noname..M_8" R0="1" R1="0" R2="0" R3="1" X="29.1948" Y="1114.65">
+            <Arrangement Name="Body_Front_Waist" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="50" PositionY="35" Orientation="180" Offset="43" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="138.135" Y="-480" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="138.135" Y="-480"/>
+                </Point>
+                <Point X="383.135" Y="-480" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-480"/>
+                </Point>
+                <Point X="347.981" Y="71.6296" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.981" Y="71.6296"/>
+                </Point>
+                <Point X="238.705" Y="121.886" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="238.705" Y="121.886"/>
+                </Point>
+                <Point X="242.635" Y="70" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="242.635" Y="70"/>
+                </Point>
+                <Point X="230.135" Y="-25" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="230.135" Y="-25"/>
+                </Point>
+                <Point X="217.635" Y="70" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="217.635" Y="70"/>
+                </Point>
+                <Point X="221.563" Y="121.851" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="221.563" Y="121.851"/>
+                </Point>
+                <Point X="230.135" Y="235" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="230.135" Y="235"/>
+                </Point>
+                <Point X="251.785" Y="168.43" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="251.785" Y="168.43"/>
+                </Point>
+                <Point X="414.405" Y="164.11" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="414.405" Y="164.11"/>
+                </Point>
+                <Point X="375.045" Y="287.6" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="375.045" Y="287.6"/>
+                </Point>
+                <Point X="328.985" Y="438" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="328.985" Y="438"/>
+                </Point>
+                <Point X="232.728" Y="471.732" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="232.728" Y="471.732"/>
+                </Point>
+                <Point X="138.135" Y="298.16" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="138.135" Y="298.16"/>
+                </Point>
+                <Point X="43.5417" Y="471.732" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="43.5417" Y="471.732"/>
+                </Point>
+                <Point X="-52.7148" Y="438" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-52.7148" Y="438"/>
+                </Point>
+                <Point X="-98.7751" Y="287.6" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-98.7751" Y="287.6"/>
+                </Point>
+                <Point X="-138.135" Y="164.11" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-138.135" Y="164.11"/>
+                </Point>
+                <Point X="24.4849" Y="168.43" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="24.4849" Y="168.43"/>
+                </Point>
+                <Point X="46.135" Y="235" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="46.135" Y="235"/>
+                </Point>
+                <Point X="54.7069" Y="121.851" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="54.7069" Y="121.851"/>
+                </Point>
+                <Point X="58.635" Y="70" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="58.635" Y="70"/>
+                </Point>
+                <Point X="46.135" Y="-25" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="46.135" Y="-25"/>
+                </Point>
+                <Point X="33.635" Y="70" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="33.635" Y="70"/>
+                </Point>
+                <Point X="37.5646" Y="121.886" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="37.5646" Y="121.886"/>
+                </Point>
+                <Point X="-71.7109" Y="71.6296" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-71.7109" Y="71.6296"/>
+                </Point>
+                <Point X="-106.865" Y="-480" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-480"/>
+                </Point>
+                <Point X="383.135" Y="-469.701" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-469.701"/>
+                </Point>
+                <Point X="383.135" Y="-459.407" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-459.407"/>
+                </Point>
+                <Point X="383.135" Y="-449.159" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-449.159"/>
+                </Point>
+                <Point X="383.135" Y="-438.991" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-438.991"/>
+                </Point>
+                <Point X="383.135" Y="-428.822" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-428.822"/>
+                </Point>
+                <Point X="383.135" Y="-418.708" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-418.708"/>
+                </Point>
+                <Point X="383.135" Y="-408.54" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-408.54"/>
+                </Point>
+                <Point X="383.135" Y="-398.371" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-398.371"/>
+                </Point>
+                <Point X="383.135" Y="-388.195" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-388.195"/>
+                </Point>
+                <Point X="383.135" Y="-378.027" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-378.027"/>
+                </Point>
+                <Point X="383.135" Y="-367.858" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-367.858"/>
+                </Point>
+                <Point X="383.135" Y="-357.642" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-357.642"/>
+                </Point>
+                <Point X="383.135" Y="-347.474" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-347.474"/>
+                </Point>
+                <Point X="383.135" Y="-337.305" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-337.305"/>
+                </Point>
+                <Point X="383.135" Y="-327.21" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-327.21"/>
+                </Point>
+                <Point X="383.135" Y="-317.041" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-317.041"/>
+                </Point>
+                <Point X="383.135" Y="-306.873" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-306.873"/>
+                </Point>
+                <Point X="383.135" Y="-296.838" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-296.838"/>
+                </Point>
+                <Point X="383.135" Y="-286.669" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-286.669"/>
+                </Point>
+                <Point X="383.135" Y="-276.501" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-276.501"/>
+                </Point>
+                <Point X="383.135" Y="-266.252" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-266.252"/>
+                </Point>
+                <Point X="383.135" Y="-256.083" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-256.083"/>
+                </Point>
+                <Point X="383.135" Y="-245.915" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-245.915"/>
+                </Point>
+                <Point X="383.135" Y="-235.726" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-235.726"/>
+                </Point>
+                <Point X="383.135" Y="-225.557" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-225.557"/>
+                </Point>
+                <Point X="383.134" Y="-215.389" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.134" Y="-215.389"/>
+                </Point>
+                <Point X="383.135" Y="-205.25" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.135" Y="-205.25"/>
+                </Point>
+                <Point X="383.137" Y="-195.081" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.137" Y="-195.081"/>
+                </Point>
+                <Point X="383.137" Y="-184.912" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.137" Y="-184.912"/>
+                </Point>
+                <Point X="383.134" Y="-174.804" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.134" Y="-174.804"/>
+                </Point>
+                <Point X="383.128" Y="-164.637" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.128" Y="-164.637"/>
+                </Point>
+                <Point X="383.126" Y="-154.468" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.126" Y="-154.468"/>
+                </Point>
+                <Point X="383.139" Y="-144.217" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.139" Y="-144.217"/>
+                </Point>
+                <Point X="383.146" Y="-134.044" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="383.146" Y="-134.044"/>
+                </Point>
+                <Point X="380.01" Y="-78.1283" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="380.01" Y="-78.1283"/>
+                </Point>
+                <Point X="371.352" Y="-22.781" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="371.352" Y="-22.781"/>
+                </Point>
+                <Point X="357.61" Y="31.5266" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="357.61" Y="31.5266"/>
+                </Point>
+                <Point X="352.57" Y="48.9467" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="352.57" Y="48.9467"/>
+                </Point>
+                <Point X="350.72" Y="56.441" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="350.72" Y="56.441"/>
+                </Point>
+                <Point X="349.164" Y="64.0018" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="349.164" Y="64.0018"/>
+                </Point>
+                <Point X="288.295" Y="160.539" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="288.295" Y="160.539"/>
+                </Point>
+                <Point X="325.445" Y="156.66" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="325.445" Y="156.66"/>
+                </Point>
+                <Point X="336.515" Y="156.31" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="336.515" Y="156.31"/>
+                </Point>
+                <Point X="347.605" Y="156.32" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="347.605" Y="156.32"/>
+                </Point>
+                <Point X="358.705" Y="156.7" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="358.705" Y="156.7"/>
+                </Point>
+                <Point X="369.815" Y="157.45" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="369.815" Y="157.45"/>
+                </Point>
+                <Point X="380.945" Y="158.57" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="380.945" Y="158.57"/>
+                </Point>
+                <Point X="392.085" Y="160.05" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="392.085" Y="160.05"/>
+                </Point>
+                <Point X="403.235" Y="161.9" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="403.235" Y="161.9"/>
+                </Point>
+                <Point X="409.555" Y="174.53" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="409.555" Y="174.53"/>
+                </Point>
+                <Point X="404.985" Y="185.08" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="404.985" Y="185.08"/>
+                </Point>
+                <Point X="400.755" Y="195.6" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="400.755" Y="195.6"/>
+                </Point>
+                <Point X="396.685" Y="206.53" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="396.685" Y="206.53"/>
+                </Point>
+                <Point X="393.245" Y="216.43" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="393.245" Y="216.43"/>
+                </Point>
+                <Point X="390.015" Y="226.4" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="390.015" Y="226.4"/>
+                </Point>
+                <Point X="386.995" Y="236.43" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="386.995" Y="236.43"/>
+                </Point>
+                <Point X="384.185" Y="246.53" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="384.185" Y="246.53"/>
+                </Point>
+                <Point X="381.585" Y="256.7" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="381.585" Y="256.7"/>
+                </Point>
+                <Point X="379.195" Y="266.93" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="379.195" Y="266.93"/>
+                </Point>
+                <Point X="377.015" Y="277.23" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="377.015" Y="277.23"/>
+                </Point>
+                <Point X="353.46" Y="283.972" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="353.46" Y="283.972"/>
+                </Point>
+                <Point X="332.135" Y="287.744" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="332.135" Y="287.744"/>
+                </Point>
+                <Point X="317.97" Y="304.053" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="317.97" Y="304.053"/>
+                </Point>
+                <Point X="309.983" Y="330.538" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="309.983" Y="330.538"/>
+                </Point>
+                <Point X="308.159" Y="358.214" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="308.159" Y="358.214"/>
+                </Point>
+                <Point X="310.662" Y="385.851" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="310.662" Y="385.851"/>
+                </Point>
+                <Point X="317.562" Y="412.719" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="317.562" Y="412.719"/>
+                </Point>
+                <Point X="215.525" Y="401.99" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="215.525" Y="401.99"/>
+                </Point>
+                <Point X="181.801" Y="341.281" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="181.801" Y="341.281"/>
+                </Point>
+                <Point X="94.4693" Y="341.281" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="94.4693" Y="341.281"/>
+                </Point>
+                <Point X="60.7449" Y="401.99" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="60.7449" Y="401.99"/>
+                </Point>
+                <Point X="-41.292" Y="412.719" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-41.292" Y="412.719"/>
+                </Point>
+                <Point X="-34.3922" Y="385.851" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-34.3922" Y="385.851"/>
+                </Point>
+                <Point X="-31.8888" Y="358.214" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-31.8888" Y="358.214"/>
+                </Point>
+                <Point X="-33.7132" Y="330.538" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-33.7132" Y="330.538"/>
+                </Point>
+                <Point X="-41.7" Y="304.053" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-41.7" Y="304.053"/>
+                </Point>
+                <Point X="-55.8654" Y="287.744" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.8654" Y="287.744"/>
+                </Point>
+                <Point X="-77.1899" Y="283.972" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-77.1899" Y="283.972"/>
+                </Point>
+                <Point X="-100.745" Y="277.23" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-100.745" Y="277.23"/>
+                </Point>
+                <Point X="-102.925" Y="266.93" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-102.925" Y="266.93"/>
+                </Point>
+                <Point X="-105.315" Y="256.7" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-105.315" Y="256.7"/>
+                </Point>
+                <Point X="-107.915" Y="246.53" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-107.915" Y="246.53"/>
+                </Point>
+                <Point X="-110.725" Y="236.43" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-110.725" Y="236.43"/>
+                </Point>
+                <Point X="-113.745" Y="226.4" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-113.745" Y="226.4"/>
+                </Point>
+                <Point X="-116.975" Y="216.43" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-116.975" Y="216.43"/>
+                </Point>
+                <Point X="-120.415" Y="206.53" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-120.415" Y="206.53"/>
+                </Point>
+                <Point X="-124.485" Y="195.6" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-124.485" Y="195.6"/>
+                </Point>
+                <Point X="-128.715" Y="185.08" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-128.715" Y="185.08"/>
+                </Point>
+                <Point X="-133.285" Y="174.53" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-133.285" Y="174.53"/>
+                </Point>
+                <Point X="-126.965" Y="161.9" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-126.965" Y="161.9"/>
+                </Point>
+                <Point X="-115.815" Y="160.05" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-115.815" Y="160.05"/>
+                </Point>
+                <Point X="-104.675" Y="158.57" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-104.675" Y="158.57"/>
+                </Point>
+                <Point X="-93.5449" Y="157.45" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-93.5449" Y="157.45"/>
+                </Point>
+                <Point X="-82.4351" Y="156.7" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-82.4351" Y="156.7"/>
+                </Point>
+                <Point X="-71.335" Y="156.32" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-71.335" Y="156.32"/>
+                </Point>
+                <Point X="-60.2451" Y="156.31" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-60.2451" Y="156.31"/>
+                </Point>
+                <Point X="-49.175" Y="156.66" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-49.175" Y="156.66"/>
+                </Point>
+                <Point X="-12.025" Y="160.539" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-12.025" Y="160.539"/>
+                </Point>
+                <Point X="-72.8936" Y="64.0018" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-72.8936" Y="64.0018"/>
+                </Point>
+                <Point X="-74.4496" Y="56.441" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-74.4496" Y="56.441"/>
+                </Point>
+                <Point X="-76.3004" Y="48.9467" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-76.3004" Y="48.9467"/>
+                </Point>
+                <Point X="-81.3401" Y="31.5266" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-81.3401" Y="31.5266"/>
+                </Point>
+                <Point X="-95.082" Y="-22.781" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-95.082" Y="-22.781"/>
+                </Point>
+                <Point X="-103.74" Y="-78.1283" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-103.74" Y="-78.1283"/>
+                </Point>
+                <Point X="-106.876" Y="-134.044" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.876" Y="-134.044"/>
+                </Point>
+                <Point X="-106.869" Y="-144.217" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.869" Y="-144.217"/>
+                </Point>
+                <Point X="-106.856" Y="-154.468" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.856" Y="-154.468"/>
+                </Point>
+                <Point X="-106.858" Y="-164.637" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.858" Y="-164.637"/>
+                </Point>
+                <Point X="-106.864" Y="-174.804" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.864" Y="-174.804"/>
+                </Point>
+                <Point X="-106.867" Y="-184.912" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.867" Y="-184.912"/>
+                </Point>
+                <Point X="-106.867" Y="-195.081" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.867" Y="-195.081"/>
+                </Point>
+                <Point X="-106.865" Y="-205.25" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-205.25"/>
+                </Point>
+                <Point X="-106.864" Y="-215.389" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.864" Y="-215.389"/>
+                </Point>
+                <Point X="-106.865" Y="-225.557" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-225.557"/>
+                </Point>
+                <Point X="-106.865" Y="-235.726" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-235.726"/>
+                </Point>
+                <Point X="-106.865" Y="-245.915" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-245.915"/>
+                </Point>
+                <Point X="-106.865" Y="-256.083" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-256.083"/>
+                </Point>
+                <Point X="-106.865" Y="-266.252" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-266.252"/>
+                </Point>
+                <Point X="-106.865" Y="-276.501" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-276.501"/>
+                </Point>
+                <Point X="-106.865" Y="-286.669" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-286.669"/>
+                </Point>
+                <Point X="-106.865" Y="-296.838" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-296.838"/>
+                </Point>
+                <Point X="-106.865" Y="-306.873" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-306.873"/>
+                </Point>
+                <Point X="-106.865" Y="-317.041" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-317.041"/>
+                </Point>
+                <Point X="-106.865" Y="-327.21" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-327.21"/>
+                </Point>
+                <Point X="-106.865" Y="-337.305" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-337.305"/>
+                </Point>
+                <Point X="-106.865" Y="-347.474" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-347.474"/>
+                </Point>
+                <Point X="-106.865" Y="-357.642" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-357.642"/>
+                </Point>
+                <Point X="-106.865" Y="-367.858" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-367.858"/>
+                </Point>
+                <Point X="-106.865" Y="-378.027" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-378.027"/>
+                </Point>
+                <Point X="-106.865" Y="-388.195" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-388.195"/>
+                </Point>
+                <Point X="-106.865" Y="-398.371" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-398.371"/>
+                </Point>
+                <Point X="-106.865" Y="-408.54" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-408.54"/>
+                </Point>
+                <Point X="-106.865" Y="-418.708" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-418.708"/>
+                </Point>
+                <Point X="-106.865" Y="-428.822" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-428.822"/>
+                </Point>
+                <Point X="-106.865" Y="-438.991" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-438.991"/>
+                </Point>
+                <Point X="-106.865" Y="-449.159" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-449.159"/>
+                </Point>
+                <Point X="-106.865" Y="-459.407" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-459.407"/>
+                </Point>
+                <Point X="-106.865" Y="-469.701" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-106.865" Y="-469.701"/>
+                </Point>
+            </PointList>
+            <Line GID="73" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="74" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="28"/>
+                <PointIndex Index="29"/>
+                <PointIndex Index="30"/>
+                <PointIndex Index="31"/>
+                <PointIndex Index="32"/>
+                <PointIndex Index="33"/>
+                <PointIndex Index="34"/>
+                <PointIndex Index="35"/>
+                <PointIndex Index="36"/>
+                <PointIndex Index="37"/>
+                <PointIndex Index="38"/>
+                <PointIndex Index="39"/>
+                <PointIndex Index="40"/>
+                <PointIndex Index="41"/>
+                <PointIndex Index="42"/>
+                <PointIndex Index="43"/>
+                <PointIndex Index="44"/>
+                <PointIndex Index="45"/>
+                <PointIndex Index="46"/>
+                <PointIndex Index="47"/>
+                <PointIndex Index="48"/>
+                <PointIndex Index="49"/>
+                <PointIndex Index="50"/>
+                <PointIndex Index="51"/>
+                <PointIndex Index="52"/>
+                <PointIndex Index="53"/>
+                <PointIndex Index="54"/>
+                <PointIndex Index="55"/>
+                <PointIndex Index="56"/>
+                <PointIndex Index="57"/>
+                <PointIndex Index="58"/>
+                <PointIndex Index="59"/>
+                <PointIndex Index="60"/>
+                <PointIndex Index="61"/>
+                <PointIndex Index="62"/>
+                <PointIndex Index="63"/>
+                <PointIndex Index="64"/>
+                <PointIndex Index="65"/>
+                <PointIndex Index="66"/>
+                <PointIndex Index="67"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="75" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="76" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="77" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+            </Line>
+            <Line GID="78" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="5"/>
+                <PointIndex Index="6"/>
+            </Line>
+            <Line GID="79" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="6"/>
+                <PointIndex Index="7"/>
+            </Line>
+            <Line GID="80" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="7"/>
+                <PointIndex Index="8"/>
+            </Line>
+            <Line GID="81" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="8"/>
+                <PointIndex Index="9"/>
+            </Line>
+            <Line GID="82" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="9"/>
+                <PointIndex Index="68"/>
+                <PointIndex Index="69"/>
+                <PointIndex Index="70"/>
+                <PointIndex Index="71"/>
+                <PointIndex Index="72"/>
+                <PointIndex Index="73"/>
+                <PointIndex Index="74"/>
+                <PointIndex Index="75"/>
+                <PointIndex Index="76"/>
+                <PointIndex Index="10"/>
+            </Line>
+            <Line GID="83" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="10"/>
+                <PointIndex Index="77"/>
+                <PointIndex Index="78"/>
+                <PointIndex Index="79"/>
+                <PointIndex Index="80"/>
+                <PointIndex Index="81"/>
+                <PointIndex Index="82"/>
+                <PointIndex Index="83"/>
+                <PointIndex Index="84"/>
+                <PointIndex Index="85"/>
+                <PointIndex Index="86"/>
+                <PointIndex Index="87"/>
+                <PointIndex Index="11"/>
+            </Line>
+            <Line GID="84" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="11"/>
+                <PointIndex Index="88"/>
+                <PointIndex Index="89"/>
+                <PointIndex Index="90"/>
+                <PointIndex Index="91"/>
+                <PointIndex Index="92"/>
+                <PointIndex Index="93"/>
+                <PointIndex Index="94"/>
+                <PointIndex Index="12"/>
+            </Line>
+            <Line GID="85" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="12"/>
+                <PointIndex Index="13"/>
+            </Line>
+            <Line GID="86" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="13"/>
+                <PointIndex Index="95"/>
+                <PointIndex Index="96"/>
+                <PointIndex Index="14"/>
+            </Line>
+            <Line GID="87" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="14"/>
+                <PointIndex Index="97"/>
+                <PointIndex Index="98"/>
+                <PointIndex Index="15"/>
+            </Line>
+            <Line GID="88" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="15"/>
+                <PointIndex Index="16"/>
+            </Line>
+            <Line GID="89" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="16"/>
+                <PointIndex Index="99"/>
+                <PointIndex Index="100"/>
+                <PointIndex Index="101"/>
+                <PointIndex Index="102"/>
+                <PointIndex Index="103"/>
+                <PointIndex Index="104"/>
+                <PointIndex Index="105"/>
+                <PointIndex Index="17"/>
+            </Line>
+            <Line GID="90" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="17"/>
+                <PointIndex Index="106"/>
+                <PointIndex Index="107"/>
+                <PointIndex Index="108"/>
+                <PointIndex Index="109"/>
+                <PointIndex Index="110"/>
+                <PointIndex Index="111"/>
+                <PointIndex Index="112"/>
+                <PointIndex Index="113"/>
+                <PointIndex Index="114"/>
+                <PointIndex Index="115"/>
+                <PointIndex Index="116"/>
+                <PointIndex Index="18"/>
+            </Line>
+            <Line GID="91" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="18"/>
+                <PointIndex Index="117"/>
+                <PointIndex Index="118"/>
+                <PointIndex Index="119"/>
+                <PointIndex Index="120"/>
+                <PointIndex Index="121"/>
+                <PointIndex Index="122"/>
+                <PointIndex Index="123"/>
+                <PointIndex Index="124"/>
+                <PointIndex Index="125"/>
+                <PointIndex Index="19"/>
+            </Line>
+            <Line GID="92" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="19"/>
+                <PointIndex Index="20"/>
+            </Line>
+            <Line GID="93" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="20"/>
+                <PointIndex Index="21"/>
+            </Line>
+            <Line GID="94" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="21"/>
+                <PointIndex Index="22"/>
+            </Line>
+            <Line GID="95" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="22"/>
+                <PointIndex Index="23"/>
+            </Line>
+            <Line GID="96" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="23"/>
+                <PointIndex Index="24"/>
+            </Line>
+            <Line GID="97" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="24"/>
+                <PointIndex Index="25"/>
+            </Line>
+            <Line GID="98" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="25"/>
+                <PointIndex Index="26"/>
+            </Line>
+            <Line GID="99" PatternGID="23" Type="2" bLockState="false">
+                <PointIndex Index="26"/>
+                <PointIndex Index="126"/>
+                <PointIndex Index="127"/>
+                <PointIndex Index="128"/>
+                <PointIndex Index="129"/>
+                <PointIndex Index="130"/>
+                <PointIndex Index="131"/>
+                <PointIndex Index="132"/>
+                <PointIndex Index="133"/>
+                <PointIndex Index="134"/>
+                <PointIndex Index="135"/>
+                <PointIndex Index="136"/>
+                <PointIndex Index="137"/>
+                <PointIndex Index="138"/>
+                <PointIndex Index="139"/>
+                <PointIndex Index="140"/>
+                <PointIndex Index="141"/>
+                <PointIndex Index="142"/>
+                <PointIndex Index="143"/>
+                <PointIndex Index="144"/>
+                <PointIndex Index="145"/>
+                <PointIndex Index="146"/>
+                <PointIndex Index="147"/>
+                <PointIndex Index="148"/>
+                <PointIndex Index="149"/>
+                <PointIndex Index="150"/>
+                <PointIndex Index="151"/>
+                <PointIndex Index="152"/>
+                <PointIndex Index="153"/>
+                <PointIndex Index="154"/>
+                <PointIndex Index="155"/>
+                <PointIndex Index="156"/>
+                <PointIndex Index="157"/>
+                <PointIndex Index="158"/>
+                <PointIndex Index="159"/>
+                <PointIndex Index="160"/>
+                <PointIndex Index="161"/>
+                <PointIndex Index="162"/>
+                <PointIndex Index="163"/>
+                <PointIndex Index="164"/>
+                <PointIndex Index="165"/>
+                <PointIndex Index="27"/>
+            </Line>
+            <Line GID="100" PatternGID="23" Type="0" bLockState="false">
+                <PointIndex Index="27"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+        <InternalShape GID="24" Hole="false" R0="1" R1="0" R2="0" R3="1" X="0" Y="0">
+            <PointList>
+                <Point X="54.7069" Y="121.851" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="54.7069" Y="121.851"/>
+                </Point>
+                <Point X="308.355" Y="364.369" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="308.355" Y="364.369"/>
+                </Point>
+            </PointList>
+            <Line GID="101" PatternGID="24" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+        </InternalShape>
+        <InternalShape GID="25" Hole="false" R0="1" R1="0" R2="0" R3="1" X="0" Y="0">
+            <PointList>
+                <Point X="221.563" Y="121.851" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="221.563" Y="121.851"/>
+                </Point>
+                <Point X="127.913" Y="152.095" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="127.913" Y="152.095"/>
+                </Point>
+            </PointList>
+            <Line GID="102" PatternGID="25" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+        </InternalShape>
+    </Pattern>
+    <FabricList>
+        <Fabric InstanceGID="14" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/19156/1024/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" TranslationX="1570.67" TranslationY="1416.97" Angle="179.997" ScaleX="317.46" ScaleY="317.46"/>
+        <Fabric InstanceGID="15" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/19156/1024/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" TranslationX="1584.89" TranslationY="878.624" Angle="180" ScaleX="317.46" ScaleY="317.46"/>
+        <Fabric InstanceGID="16" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/19156/1024/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" TranslationX="1320.41" TranslationY="1416.96" Angle="180.003" ScaleX="317.46" ScaleY="317.46"/>
+        <Fabric InstanceGID="17" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/19156/1024/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" TranslationX="1371" TranslationY="878.624" Angle="180" ScaleX="317.46" ScaleY="317.46"/>
+        <Fabric InstanceGID="18" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/19156/1024/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" TranslationX="231.066" TranslationY="1109.91" Angle="180" ScaleX="317.46" ScaleY="317.46"/>
+        <Fabric InstanceGID="21" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/19156/1024/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" TranslationX="200.318" TranslationY="1119.39" Angle="180" ScaleX="317.46" ScaleY="317.46"/>
+        <Fabric InstanceGID="23" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/19156/1024/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" TranslationX="29.1948" TranslationY="1114.65" Angle="180" ScaleX="317.46" ScaleY="317.46"/>
+    </FabricList>
+    <SeamLinePairGroup ColorR="0.0941176" ColorG="0.705882" ColorB="0.913725">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0.0941176" ColorG="0.705882" ColorB="0.913725" StartLineGID="53" EndLineGID="53" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0.0941176" ColorG="0.705882" ColorB="0.913725" StartLineGID="54" EndLineGID="54" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="103" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.0941176" ColorG ="0.705882" ColorB ="0.913725" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="53" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="53" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.0941176" ColorG ="0.705882" ColorB ="0.913725" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="54" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="54" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.435294" ColorG="0.376471" ColorB="0.431373">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.435294" ColorG="0.376471" ColorB="0.431373" StartLineGID="34" EndLineGID="34" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.435294" ColorG="0.376471" ColorB="0.431373" StartLineGID="35" EndLineGID="35" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="104" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.435294" ColorG ="0.376471" ColorB ="0.431373" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="34" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="34" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.435294" ColorG ="0.376471" ColorB ="0.431373" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="35" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="35" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.192157" ColorG="0.713726" ColorB="0.458824">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0.192157" ColorG="0.713726" ColorB="0.458824" StartLineGID="48" EndLineGID="48" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0.192157" ColorG="0.713726" ColorB="0.458824" StartLineGID="47" EndLineGID="47" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="105" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.192157" ColorG ="0.713726" ColorB ="0.458824" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="48" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="48" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.192157" ColorG ="0.713726" ColorB ="0.458824" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="47" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="47" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.721569" ColorG="0.14902" ColorB="0.278431">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.721569" ColorG="0.14902" ColorB="0.278431" StartLineGID="29" EndLineGID="29" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.721569" ColorG="0.14902" ColorB="0.278431" StartLineGID="28" EndLineGID="28" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="106" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.721569" ColorG ="0.14902" ColorB ="0.278431" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="29" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="29" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.721569" ColorG ="0.14902" ColorB ="0.278431" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="28" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="28" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.0431373" ColorG="0.427451" ColorB="0.717647">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0.0431373" ColorG="0.427451" ColorB="0.717647" StartLineGID="57" EndLineGID="57" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.0431373" ColorG="0.427451" ColorB="0.717647" StartLineGID="38" EndLineGID="38" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="107" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.0431373" ColorG ="0.427451" ColorB ="0.717647" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="57" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="57" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.0431373" ColorG ="0.427451" ColorB ="0.717647" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="38" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="38" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.976471" ColorG="0.411765" ColorB="0.215686">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0.976471" ColorG="0.411765" ColorB="0.215686" StartLineGID="46" EndLineGID="46" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.976471" ColorG="0.411765" ColorB="0.215686" StartLineGID="39" EndLineGID="39" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="108" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.976471" ColorG ="0.411765" ColorB ="0.215686" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="46" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="46" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.976471" ColorG ="0.411765" ColorB ="0.215686" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="39" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="39" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.0862745" ColorG="0.666667" ColorB="0.321569">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0.0862745" ColorG="0.666667" ColorB="0.321569" StartLineGID="49" EndLineGID="49" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.0862745" ColorG="0.666667" ColorB="0.321569" StartLineGID="42" EndLineGID="42" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="109" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.0862745" ColorG ="0.666667" ColorB ="0.321569" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="49" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="49" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.0862745" ColorG ="0.666667" ColorB ="0.321569" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="42" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="42" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.427451" ColorG="0.105882" ColorB="0.262745">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.427451" ColorG="0.105882" ColorB="0.262745" StartLineGID="27" EndLineGID="27" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="17" ColorR="0.427451" ColorG="0.105882" ColorB="0.262745" StartLineGID="58" EndLineGID="58" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="110" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.427451" ColorG ="0.105882" ColorB ="0.262745" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="27" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="27" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.427451" ColorG ="0.105882" ColorB ="0.262745" RefPatternGID="17">
+                <SeamStartPoint RefLineGID ="58" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="58" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.945098" ColorG="0.356863" ColorB="0.356863">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.945098" ColorG="0.356863" ColorB="0.356863" StartLineGID="30" EndLineGID="30" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="17" ColorR="0.945098" ColorG="0.356863" ColorB="0.356863" StartLineGID="61" EndLineGID="61" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="111" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.945098" ColorG ="0.356863" ColorB ="0.356863" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="30" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="30" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.945098" ColorG ="0.356863" ColorB ="0.356863" RefPatternGID="17">
+                <SeamStartPoint RefLineGID ="61" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="61" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0" ColorG="0.709804" ColorB="0.890196">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="17" ColorR="0" ColorG="0.709804" ColorB="0.890196" StartLineGID="60" EndLineGID="60" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="17" ColorR="0" ColorG="0.709804" ColorB="0.890196" StartLineGID="59" EndLineGID="59" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="112" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0" ColorG ="0.709804" ColorB ="0.890196" RefPatternGID="17">
+                <SeamStartPoint RefLineGID ="60" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="60" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0" ColorG ="0.709804" ColorB ="0.890196" RefPatternGID="17">
+                <SeamStartPoint RefLineGID ="59" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="59" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.611765" ColorG="0.286275" ColorB="0.596078">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.611765" ColorG="0.286275" ColorB="0.596078" StartLineGID="41" EndLineGID="41" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.611765" ColorG="0.286275" ColorB="0.596078" StartLineGID="40" EndLineGID="40" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="113" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.611765" ColorG ="0.286275" ColorB ="0.596078" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="41" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="41" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.611765" ColorG ="0.286275" ColorB ="0.596078" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="40" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="40" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.623529" ColorG="0.286275" ColorB="0.298039">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.623529" ColorG="0.286275" ColorB="0.298039" StartLineGID="45" EndLineGID="45" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="17" ColorR="0.623529" ColorG="0.286275" ColorB="0.298039" StartLineGID="64" EndLineGID="64" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="114" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.623529" ColorG ="0.286275" ColorB ="0.298039" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="45" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="45" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.623529" ColorG ="0.286275" ColorB ="0.298039" RefPatternGID="17">
+                <SeamStartPoint RefLineGID ="64" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="64" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0" ColorG="0.65098" ColorB="0.815686">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0" ColorG="0.65098" ColorB="0.815686" StartLineGID="50" EndLineGID="50" StartRatio="0.244414" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="18" ColorR="0" ColorG="0.65098" ColorB="0.815686" StartLineGID="65" EndLineGID="65" StartRatio="1" EndRatio="0.00323816" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="115" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0" ColorG ="0.65098" ColorB ="0.815686" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="50" Ratio ="0.244414"/>
+                <SeamEndPoint RefLineGID ="50" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0" ColorG ="0.65098" ColorB ="0.815686" RefPatternGID="18">
+                <SeamStartPoint RefLineGID ="65" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="65" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.180392" ColorG="0.403922" ColorB="0.305882">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.180392" ColorG="0.403922" ColorB="0.305882" StartLineGID="31" EndLineGID="31" StartRatio="0.244414" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="21" ColorR="0.180392" ColorG="0.403922" ColorB="0.305882" StartLineGID="69" EndLineGID="69" StartRatio="1" EndRatio="0.00323816" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="116" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.180392" ColorG ="0.403922" ColorB ="0.305882" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="31" Ratio ="0.244415"/>
+                <SeamEndPoint RefLineGID ="31" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.180392" ColorG ="0.403922" ColorB ="0.305882" RefPatternGID="21">
+                <SeamStartPoint RefLineGID ="69" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="69" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.858824" ColorG="0.305882" ColorB="0.611765">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="18" ColorR="0.858824" ColorG="0.305882" ColorB="0.611765" StartLineGID="66" EndLineGID="66" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.858824" ColorG="0.305882" ColorB="0.611765" StartLineGID="82" EndLineGID="82" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="117" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.858824" ColorG ="0.305882" ColorB ="0.611765" RefPatternGID="18">
+                <SeamStartPoint RefLineGID ="66" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="66" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.858824" ColorG ="0.305882" ColorB ="0.611765" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="82" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="82" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.964706" ColorG="0.227451" ColorB="0.0313726">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.964706" ColorG="0.227451" ColorB="0.0313726" StartLineGID="79" EndLineGID="80" StartRatio="0.997757" EndRatio="0.383102" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="18" ColorR="0.964706" ColorG="0.227451" ColorB="0.0313726" StartLineGID="67" EndLineGID="67" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="118" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.964706" ColorG ="0.227451" ColorB ="0.0313726" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="80" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="80" Ratio ="0.383102"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.964706" ColorG ="0.227451" ColorB ="0.0313726" RefPatternGID="18">
+                <SeamStartPoint RefLineGID ="67" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="67" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.411765" ColorG="0.47451" ColorB="0.733333">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.411765" ColorG="0.47451" ColorB="0.733333" StartLineGID="43" EndLineGID="43" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.411765" ColorG="0.47451" ColorB="0.733333" StartLineGID="74" EndLineGID="74" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="119" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.411765" ColorG ="0.47451" ColorB ="0.733333" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="43" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="43" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.411765" ColorG ="0.47451" ColorB ="0.733333" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="74" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="74" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.603922" ColorG="0.419608" ColorB="0.192157">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0.603922" ColorG="0.419608" ColorB="0.192157" StartLineGID="50" EndLineGID="50" StartRatio="1" EndRatio="0.244414" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.603922" ColorG="0.419608" ColorB="0.192157" StartLineGID="83" EndLineGID="83" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="120" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.603922" ColorG ="0.419608" ColorB ="0.192157" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="50" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="50" Ratio ="0.244414"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.603922" ColorG ="0.419608" ColorB ="0.192157" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="83" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="83" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.364706" ColorG="0.203922" ColorB="0.384314">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="18" ColorR="0.364706" ColorG="0.203922" ColorB="0.384314" StartLineGID="68" EndLineGID="68" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.364706" ColorG="0.203922" ColorB="0.384314" StartLineGID="75" EndLineGID="75" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="121" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.364706" ColorG ="0.203922" ColorB ="0.384314" RefPatternGID="18">
+                <SeamStartPoint RefLineGID ="68" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="68" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.364706" ColorG ="0.203922" ColorB ="0.384314" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="75" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="75" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.0941176" ColorG="0.705882" ColorB="0.913725">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="17" ColorR="0.0941176" ColorG="0.705882" ColorB="0.913725" StartLineGID="62" EndLineGID="62" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.0941176" ColorG="0.705882" ColorB="0.913725" StartLineGID="99" EndLineGID="99" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="122" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.0941176" ColorG ="0.705882" ColorB ="0.913725" RefPatternGID="17">
+                <SeamStartPoint RefLineGID ="62" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="62" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.0941176" ColorG ="0.705882" ColorB ="0.913725" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="99" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="99" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.435294" ColorG="0.376471" ColorB="0.431373">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.435294" ColorG="0.376471" ColorB="0.431373" StartLineGID="31" EndLineGID="31" StartRatio="1" EndRatio="0.244414" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.435294" ColorG="0.376471" ColorB="0.431373" StartLineGID="90" EndLineGID="90" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="123" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.435294" ColorG ="0.376471" ColorB ="0.431373" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="31" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="31" Ratio ="0.244415"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.435294" ColorG ="0.376471" ColorB ="0.431373" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="90" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="90" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.192157" ColorG="0.713726" ColorB="0.458824">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.192157" ColorG="0.713726" ColorB="0.458824" StartLineGID="93" EndLineGID="93" StartRatio="0.616898" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.192157" ColorG="0.713726" ColorB="0.458824" StartLineGID="92" EndLineGID="92" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="124" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.192157" ColorG ="0.713726" ColorB ="0.458824" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="93" Ratio ="0.616898"/>
+                <SeamEndPoint RefLineGID ="93" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.192157" ColorG ="0.713726" ColorB ="0.458824" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="92" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="92" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.721569" ColorG="0.14902" ColorB="0.278431">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.721569" ColorG="0.14902" ColorB="0.278431" StartLineGID="80" EndLineGID="80" StartRatio="0.383102" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.721569" ColorG="0.14902" ColorB="0.278431" StartLineGID="81" EndLineGID="81" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="125" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.721569" ColorG ="0.14902" ColorB ="0.278431" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="80" Ratio ="0.383102"/>
+                <SeamEndPoint RefLineGID ="80" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.721569" ColorG ="0.14902" ColorB ="0.278431" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="81" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="81" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.0431373" ColorG="0.427451" ColorB="0.717647">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.0431373" ColorG="0.427451" ColorB="0.717647" StartLineGID="95" EndLineGID="95" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.0431373" ColorG="0.427451" ColorB="0.717647" StartLineGID="96" EndLineGID="96" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="126" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.0431373" ColorG ="0.427451" ColorB ="0.717647" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="95" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="95" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.0431373" ColorG ="0.427451" ColorB ="0.717647" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="96" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="96" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.976471" ColorG="0.411765" ColorB="0.215686">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.976471" ColorG="0.411765" ColorB="0.215686" StartLineGID="78" EndLineGID="78" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.976471" ColorG="0.411765" ColorB="0.215686" StartLineGID="77" EndLineGID="77" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="127" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.976471" ColorG ="0.411765" ColorB ="0.215686" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="78" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="78" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.976471" ColorG ="0.411765" ColorB ="0.215686" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="77" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="77" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.0862745" ColorG="0.666667" ColorB="0.321569">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.0862745" ColorG="0.666667" ColorB="0.321569" StartLineGID="94" EndLineGID="94" StartRatio="1" EndRatio="0.00224318" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.0862745" ColorG="0.666667" ColorB="0.321569" StartLineGID="97" EndLineGID="97" StartRatio="0" EndRatio="0.997112" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="128" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.0862745" ColorG ="0.666667" ColorB ="0.321569" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="94" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="94" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.0862745" ColorG ="0.666667" ColorB ="0.321569" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="97" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="97" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.427451" ColorG="0.105882" ColorB="0.262745">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.427451" ColorG="0.105882" ColorB="0.262745" StartLineGID="79" EndLineGID="79" StartRatio="0" EndRatio="0.997754" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.427451" ColorG="0.105882" ColorB="0.262745" StartLineGID="76" EndLineGID="76" StartRatio="1" EndRatio="0.00288826" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="129" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.427451" ColorG ="0.105882" ColorB ="0.262745" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="79" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="79" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.427451" ColorG ="0.105882" ColorB ="0.262745" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="76" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="76" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.945098" ColorG="0.356863" ColorB="0.356863">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="21" ColorR="0.945098" ColorG="0.356863" ColorB="0.356863" StartLineGID="70" EndLineGID="70" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.945098" ColorG="0.356863" ColorB="0.356863" StartLineGID="91" EndLineGID="91" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="130" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.945098" ColorG ="0.356863" ColorB ="0.356863" RefPatternGID="21">
+                <SeamStartPoint RefLineGID ="70" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="70" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.945098" ColorG ="0.356863" ColorB ="0.356863" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="91" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="91" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0" ColorG="0.709804" ColorB="0.890196">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0" ColorG="0.709804" ColorB="0.890196" StartLineGID="94" EndLineGID="93" StartRatio="0.00223824" EndRatio="0.616898" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="21" ColorR="0" ColorG="0.709804" ColorB="0.890196" StartLineGID="71" EndLineGID="71" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="131" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0" ColorG ="0.709804" ColorB ="0.890196" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="93" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="93" Ratio ="0.616898"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0" ColorG ="0.709804" ColorB ="0.890196" RefPatternGID="21">
+                <SeamStartPoint RefLineGID ="71" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="71" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.611765" ColorG="0.286275" ColorB="0.596078">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="21" ColorR="0.611765" ColorG="0.286275" ColorB="0.596078" StartLineGID="72" EndLineGID="72" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.611765" ColorG="0.286275" ColorB="0.596078" StartLineGID="98" EndLineGID="98" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="132" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.611765" ColorG ="0.286275" ColorB ="0.596078" RefPatternGID="21">
+                <SeamStartPoint RefLineGID ="72" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="72" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.611765" ColorG ="0.286275" ColorB ="0.596078" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="98" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="98" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="1" ColorG="0.27451" ColorB="0.85098">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="1" ColorG="0.27451" ColorB="0.85098" StartLineGID="85" EndLineGID="85" StartRatio="1" EndRatio="0.780916" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="1" ColorG="0.27451" ColorB="0.85098" StartLineGID="55" EndLineGID="55" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="133" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="1" ColorG ="0.27451" ColorB ="0.85098" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="85" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="85" Ratio ="0.780916"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="1" ColorG ="0.27451" ColorB ="0.85098" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="55" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="55" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.266667" ColorG="0.54902" ColorB="0.796078">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.266667" ColorG="0.54902" ColorB="0.796078" StartLineGID="85" EndLineGID="85" StartRatio="0.780916" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="16" ColorR="0.266667" ColorG="0.54902" ColorB="0.796078" StartLineGID="52" EndLineGID="52" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="134" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.266667" ColorG ="0.54902" ColorB ="0.796078" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="85" Ratio ="0.780916"/>
+                <SeamEndPoint RefLineGID ="85" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.266667" ColorG ="0.54902" ColorB ="0.796078" RefPatternGID="16">
+                <SeamStartPoint RefLineGID ="52" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="52" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.858824" ColorG="0.305882" ColorB="0.611765">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.858824" ColorG="0.305882" ColorB="0.611765" StartLineGID="88" EndLineGID="88" StartRatio="0" EndRatio="0.219084" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.858824" ColorG="0.305882" ColorB="0.611765" StartLineGID="36" EndLineGID="36" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="135" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.858824" ColorG ="0.305882" ColorB ="0.611765" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="88" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="88" Ratio ="0.219084"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.858824" ColorG ="0.305882" ColorB ="0.611765" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="36" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="36" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.964706" ColorG="0.227451" ColorB="0.0313726">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="23" ColorR="0.964706" ColorG="0.227451" ColorB="0.0313726" StartLineGID="88" EndLineGID="88" StartRatio="0.219084" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="14" ColorR="0.964706" ColorG="0.227451" ColorB="0.0313726" StartLineGID="33" EndLineGID="33" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="136" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.964706" ColorG ="0.227451" ColorB ="0.0313726" RefPatternGID="23">
+                <SeamStartPoint RefLineGID ="88" Ratio ="0.219084"/>
+                <SeamEndPoint RefLineGID ="88" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.964706" ColorG ="0.227451" ColorB ="0.0313726" RefPatternGID="14">
+                <SeamStartPoint RefLineGID ="33" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="33" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <MaxGID MaxGID="136"/>
+    <FileInfo/>
+    <BOM CurrentColorWayIndex="0" ProjectName="L14" Version="1" ModularMark="False">
+        <ColorWay Index="0" Name="Colorway A">
+            <PatternList>
+                <Pattern Name="noname..M_4" FeatureCode="" ID="0" Snapshot="Images/Colorway A/2D Pattern/noname..M_4.png" ConsumptionArea="75314.4" ConsumptionAreaUnit="sq. mm" FabricName="FABRIC 1" FabricID="0"/>
+                <Pattern Name="noname..M_5" FeatureCode="" ID="1" Snapshot="Images/Colorway A/2D Pattern/noname..M_5.png" ConsumptionArea="119359" ConsumptionAreaUnit="sq. mm" FabricName="FABRIC 1" FabricID="0"/>
+                <Pattern Name="noname..M_1" FeatureCode="" ID="2" Snapshot="Images/Colorway A/2D Pattern/noname..M_1.png" ConsumptionArea="75314.5" ConsumptionAreaUnit="sq. mm" FabricName="FABRIC 1" FabricID="0"/>
+                <Pattern Name="noname..M_6" FeatureCode="" ID="3" Snapshot="Images/Colorway A/2D Pattern/noname..M_6.png" ConsumptionArea="119359" ConsumptionAreaUnit="sq. mm" FabricName="FABRIC 1" FabricID="0"/>
+                <Pattern Name="noname..M_7" FeatureCode="" ID="4" Snapshot="Images/Colorway A/2D Pattern/noname..M_7.png" ConsumptionArea="4632.22" ConsumptionAreaUnit="sq. mm" FabricName="FABRIC 1" FabricID="0"/>
+                <Pattern Name="noname..M_3" FeatureCode="" ID="5" Snapshot="Images/Colorway A/2D Pattern/noname..M_3.png" ConsumptionArea="4632.23" ConsumptionAreaUnit="sq. mm" FabricName="FABRIC 1" FabricID="0"/>
+                <Pattern Name="noname..M_8" FeatureCode="" ID="6" Snapshot="Images/Colorway A/2D Pattern/noname..M_8.png" ConsumptionArea="385983" ConsumptionAreaUnit="sq. mm" FabricName="FABRIC 1" FabricID="0"/>
+            </PatternList>
+            <Garment>
+                <ColorWay Name="Colorway A" FeatureCode="" ID="0">
+                    <FabricList>
+                        <Fabric ID="0" Name="FABRIC 1"/>
+                        <Fabric ID="1" Name="FABRIC 1 Copy 1"/>
+                    </FabricList>
+                    <ButtonHeadList>
+                        <ButtonHead ID="0" Name="Default Button"/>
+                    </ButtonHeadList>
+                    <ButtonHoleList>
+                        <ButtonHole ID="0" Name="Default Buttonhole"/>
+                    </ButtonHoleList>
+                    <TopStitchList>
+                        <Topstitch ID="0" Name="Default Topstitch"/>
+                    </TopStitchList>
+                    <ColorwaySnapshotList>
+                        <ColorwaySnapshot FilePath="Images/Colorway A/3D Garment/L14_Colorway A_Avatar_0.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Colorway A/3D Garment/L14_Colorway A_Avatar_1.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Colorway A/3D Garment/L14_Colorway A_Avatar_2.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Colorway A/3D Garment/L14_Colorway A_Avatar_3.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Colorway A/3D Garment/L14_Colorway A_0.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Colorway A/3D Garment/L14_Colorway A_1.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Colorway A/3D Garment/L14_Colorway A_2.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Colorway A/3D Garment/L14_Colorway A_3.PNG"/>
+                    </ColorwaySnapshotList>
+                </ColorWay>
+            </Garment>
+            <Avatar>
+                <Avatar Name="FV2_Mia" FeatureCode="" ID="0"/>
+            </Avatar>
+            <ButtonHeadList/>
+            <ButtonHoleList/>
+            <ButtonHeadStyleList/>
+            <ButtonHoleStyleList/>
+            <FabricList>
+                <Fabric Name="FABRIC 1" FeatureCode="" ID="0" Type="None" Content="None" Weight="300" WeightUnit="g/m2" Thickness="0.5" ThicknessUnit="cm">
+                    <Material2DList>
+                        <Material2D Face="Front">
+                            <PBRMaterial Opacity="100" Name="FABRIC 1_FRONT_1743">
+                                <globalColor Name="(None)" R="255" G="255" B="255" Intensity="1"/>
+                                <SpecularColor Shininess="28"/>
+                                <globalMap FilePath="Images/Colorway A/Fabric/FABRIC 1/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" Angle="0" AngleUnit="degree" Width="900" WidthUnit="px" Height="900" HeightUnit="px" ScaleX="317.46" ScaleY="317.46"/>
+                            </PBRMaterial>
+                        </Material2D>
+                        <Material2D Face="BACK">
+                            <PBRMaterial Opacity="100" Name="FABRIC 1_FRONT_1743">
+                                <globalColor Name="(None)" R="255" G="255" B="255" Intensity="1"/>
+                                <SpecularColor Shininess="28"/>
+                                <globalMap FilePath="Images/Colorway A/Fabric/FABRIC 1/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" Angle="0" AngleUnit="degree" Width="900" WidthUnit="px" Height="900" HeightUnit="px" ScaleX="317.46" ScaleY="317.46"/>
+                            </PBRMaterial>
+                        </Material2D>
+                        <Material2D Face="SIDE">
+                            <PBRMaterial Opacity="100" Name="FABRIC 1_FRONT_1743">
+                                <globalColor Name="(None)" R="255" G="255" B="255" Intensity="1"/>
+                                <SpecularColor Shininess="28"/>
+                                <globalMap FilePath="Images/Colorway A/Fabric/FABRIC 1/5654e44bdd60afef9fd247e6e1d768b5294191hd.jpg" Angle="0" AngleUnit="degree" Width="900" WidthUnit="px" Height="900" HeightUnit="px" ScaleX="317.46" ScaleY="317.46"/>
+                            </PBRMaterial>
+                        </Material2D>
+                    </Material2DList>
+                </Fabric>
+            </FabricList>
+            <PrintLayoutList>
+                <PrintLayout Name="FABRIC 1" FeatureCode="" ID="0">
+                    <Print RollWidth="1117.6"/>
+                    <Fabric FabricName="FABRIC 1" FabricID="0"/>
+                    <SnapshotList>
+                        <Snapshot FilePath="Images/Colorway A/Print Layout/Print Layout_FABRIC 1.PNG"/>
+                    </SnapshotList>
+                </PrintLayout>
+            </PrintLayoutList>
+            <GraphicList/>
+            <PuckeringList/>
+            <TopStitchList/>
+            <SewingList>
+                <Sewing Name="Sewing_252590" FeatureCode="" ID="0"/>
+                <Sewing Name="Sewing_252605" FeatureCode="" ID="1"/>
+                <Sewing Name="Sewing_252619" FeatureCode="" ID="2"/>
+                <Sewing Name="Sewing_252633" FeatureCode="" ID="3"/>
+                <Sewing Name="Sewing_252647" FeatureCode="" ID="4"/>
+                <Sewing Name="Sewing_252661" FeatureCode="" ID="5"/>
+                <Sewing Name="Sewing_252675" FeatureCode="" ID="6"/>
+                <Sewing Name="Sewing_252689" FeatureCode="" ID="7"/>
+                <Sewing Name="Sewing_252703" FeatureCode="" ID="8"/>
+                <Sewing Name="Sewing_252717" FeatureCode="" ID="9"/>
+                <Sewing Name="Sewing_252731" FeatureCode="" ID="10"/>
+                <Sewing Name="Sewing_252745" FeatureCode="" ID="11"/>
+                <Sewing Name="Sewing_252759" FeatureCode="" ID="12"/>
+                <Sewing Name="Sewing_252773" FeatureCode="" ID="13"/>
+                <Sewing Name="Sewing_252843" FeatureCode="" ID="14"/>
+                <Sewing Name="Sewing_252857" FeatureCode="" ID="15"/>
+                <Sewing Name="Sewing_252871" FeatureCode="" ID="16"/>
+                <Sewing Name="Sewing_252885" FeatureCode="" ID="17"/>
+                <Sewing Name="Sewing_252899" FeatureCode="" ID="18"/>
+                <Sewing Name="Sewing_252913" FeatureCode="" ID="19"/>
+                <Sewing Name="Sewing_252927" FeatureCode="" ID="20"/>
+                <Sewing Name="Sewing_252941" FeatureCode="" ID="21"/>
+                <Sewing Name="Sewing_252955" FeatureCode="" ID="22"/>
+                <Sewing Name="Sewing_252969" FeatureCode="" ID="23"/>
+                <Sewing Name="Sewing_252983" FeatureCode="" ID="24"/>
+                <Sewing Name="Sewing_252997" FeatureCode="" ID="25"/>
+                <Sewing Name="Sewing_253011" FeatureCode="" ID="26"/>
+                <Sewing Name="Sewing_253025" FeatureCode="" ID="27"/>
+                <Sewing Name="Sewing_253039" FeatureCode="" ID="28"/>
+                <Sewing Name="Sewing_253053" FeatureCode="" ID="29"/>
+                <Sewing Name="Sewing_253141" FeatureCode="" ID="30"/>
+                <Sewing Name="Sewing_253155" FeatureCode="" ID="31"/>
+                <Sewing Name="Sewing_253169" FeatureCode="" ID="32"/>
+                <Sewing Name="Sewing_253183" FeatureCode="" ID="33"/>
+            </SewingList>
+        </ColorWay>
+    </BOM>
+</Pacx>

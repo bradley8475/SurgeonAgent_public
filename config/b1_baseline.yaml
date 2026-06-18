@@ -1,0 +1,10 @@
+agents:
+  b1_baseline:
+    model_name: "claude-sonnet-4-6"
+    system_prompt_path: "prompts/b1_baseline.txt"
+    tools: []
+    max_tokens: 32768
+logging:
+  path: "logs/b1_baseline"
+generation:
+  target_image_path: "assets/target.jpg"

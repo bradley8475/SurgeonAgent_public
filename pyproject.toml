@@ -1,0 +1,24 @@
+[project]
+name = "SurgeonAgent"
+version = "0.1.0"
+description = "Complex structured JSON generation via differential-driven tool derivation and dual-agent collaboration"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "coloredlogs>=15.0.1",
+    "dotenv>=0.9.9",
+    "faiss-cpu>=1.13.1",
+    "flask>=3.1.2",
+    "numpy>=2.3.2",
+    "open-clip-torch>=3.2.0",
+    "openai>=1.101.0",
+    "pyyaml>=6.0.2",
+    "requests>=2.31.0",
+    "svgpathtools>=1.7.1",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+]
+
+# NOTE: This repository does not include the external editable dependencies
+# `cad` and `human-model`. Please install them separately before running the
+# garment-related pipelines. See README.md for details.

@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pacx Version="3">
+    <GradingRuleTable Index="0" GradeRuleVersion="" GradeRuleUnit="ENGLISH" GradeRuleName="PI191CSMJYL010 18-03-26 SH">
+        <GradingItem GradingItem_CurrentSizeIndex="0">
+            <GradingItem_GradingList>
+                <GradingItem_Grading Index="0" Contents="M"/>
+                <GradingItem_Grading Index="1" Contents="M1"/>
+            </GradingItem_GradingList>
+            <GradingVisibleList>
+                <GradingVisible Index="0" Visible="True"/>
+                <GradingVisible Index="1" Visible="True"/>
+            </GradingVisibleList>
+            <GradingColorList>
+                <GradingColor Index="0" R="0.713726" G="0.713726" B="0.266667" A="1"/>
+                <GradingColor Index="1" R="0.466667" G="0.713726" B="0.266667" A="1"/>
+            </GradingColorList>
+        </GradingItem>
+    </GradingRuleTable>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="15" PatternName="6" R0="1" R1="0" R2="0" R3="1" X="-6.46686" Y="1020.69">
+            <Arrangement Name="Body_Back_Waist" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="0" PositionY="40" Orientation="180" Offset="30" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="0" Y="17.5" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="0" Y="17.5"/>
+                </Point>
+                <Point X="449.997" Y="17.5" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="449.997" Y="17.5"/>
+                </Point>
+                <Point X="449.997" Y="-17.5" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="449.997" Y="-17.5"/>
+                </Point>
+                <Point X="0" Y="-17.5" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="0" Y="-17.5"/>
+                </Point>
+                <Point X="-449.997" Y="-17.5" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-449.997" Y="-17.5"/>
+                </Point>
+                <Point X="-449.997" Y="17.5" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-449.997" Y="17.5"/>
+                </Point>
+            </PointList>
+            <Line GID="8" PatternGID="15" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="9" PatternGID="15" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="10" PatternGID="15" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="11" PatternGID="15" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="12" PatternGID="15" Type="0" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+            </Line>
+            <Line GID="13" PatternGID="15" Type="0" bLockState="false">
+                <PointIndex Index="5"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+        <InternalShape GID="4" Hole="false" R0="2" R1="0" R2="0" R3="2" X="449.997" Y="0">
+            <PointList>
+                <Point X="0" Y="0" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="0" Y="0"/>
+                </Point>
+                <Point X="-224.999" Y="0" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-224.999" Y="0"/>
+                </Point>
+                <Point X="-449.997" Y="0" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-449.997" Y="0"/>
+                </Point>
+            </PointList>
+            <Line GID="14" PatternGID="4" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="15" PatternGID="4" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="4" ColorR="0" ColorG="0" ColorB="0" StartLineGID="14" EndLineGID="14" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="4" ColorR="4.95918e-39" ColorG="4.95919e-39" ColorB="5.05103e-39" StartLineGID="15" EndLineGID="15" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </InternalShape>
+        <InternalShape GID="5" Hole="false" R0="-2" R1="0" R2="0" R3="2" X="-449.997" Y="0">
+            <PointList>
+                <Point X="0" Y="0" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="0" Y="0"/>
+                </Point>
+                <Point X="-224.999" Y="0" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-224.999" Y="0"/>
+                </Point>
+                <Point X="-449.997" Y="0" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-449.997" Y="0"/>
+                </Point>
+            </PointList>
+            <Line GID="16" PatternGID="5" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="17" PatternGID="5" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="5" ColorR="4.95918e-39" ColorG="4.95919e-39" ColorB="5.05103e-39" StartLineGID="16" EndLineGID="16" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="5" ColorR="0" ColorG="0" ColorB="0" StartLineGID="17" EndLineGID="17" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </InternalShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="1" PatternName="Pattern_328759" R0="-1.27716" R1="0" R2="0" R3="1.18471" X="-177.41" Y="507.034">
+            <Arrangement Name="Leg_Front_R" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="75" PositionY="48" Orientation="180" Offset="64" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-55.7743" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.7743" Y="-468.172"/>
+                </Point>
+                <Point X="141.725" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="141.725" Y="-468.172"/>
+                </Point>
+                <Point X="131.882" Y="360" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="131.882" Y="360"/>
+                </Point>
+                <Point X="-45" Y="350" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-45" Y="350"/>
+                </Point>
+                <Point X="-95" Y="129.113" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-95" Y="129.113"/>
+                </Point>
+                <Point X="139.439" Y="-275.784" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="139.439" Y="-275.784"/>
+                </Point>
+                <Point X="136.705" Y="-45.7013" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="136.705" Y="-45.7013"/>
+                </Point>
+                <Point X="137.432" Y="195.917" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="137.432" Y="195.917"/>
+                </Point>
+                <Point X="72.2323" Y="354.899" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="72.2323" Y="354.899"/>
+                </Point>
+                <Point X="17.6781" Y="351.041" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="17.6781" Y="351.041"/>
+                </Point>
+                <Point X="-50.7039" Y="259.588" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-50.7039" Y="259.588"/>
+                </Point>
+                <Point X="-73.6302" Y="155.331" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-73.6302" Y="155.331"/>
+                </Point>
+                <Point X="-82.5288" Y="51.7543" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-82.5288" Y="51.7543"/>
+                </Point>
+                <Point X="-68.568" Y="-96.6122" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-68.568" Y="-96.6122"/>
+                </Point>
+            </PointList>
+            <Line GID="18" PatternGID="1" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="19" PatternGID="1" Type="2" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="6"/>
+                <PointIndex Index="7"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="20" PatternGID="1" Type="3" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="8"/>
+                <PointIndex Index="9"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="21" PatternGID="1" Type="2" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="10"/>
+                <PointIndex Index="11"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="22" PatternGID="1" Type="3" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="12"/>
+                <PointIndex Index="13"/>
+                <PointIndex Index="0"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="1" ColorR="0" ColorG="0" ColorB="0" StartLineGID="20" EndLineGID="20" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </BoundaryShape>
+        <InternalShape GID="3" Hole="false" R0="0.782986" R1="0" R2="0" R3="0.844085" X="0" Y="0">
+            <PointList>
+                <Point X="-71.4229" Y="-549.65" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-71.4229" Y="-549.65"/>
+                </Point>
+                <Point X="180.949" Y="-549.65" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="180.949" Y="-549.65"/>
+                </Point>
+            </PointList>
+            <Line GID="23" PatternGID="3" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="3" ColorR="1.01939e-38" ColorG="9.18369e-39" ColorB="2.93878e-39" StartLineGID="23" EndLineGID="23" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </InternalShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="1" PatternName="Pattern_328760" R0="1.17641" R1="0" R2="0" R3="1.18471" X="-635.767" Y="508.802">
+            <Arrangement Name="Leg_Back_R" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="25" PositionY="48" Orientation="180" Offset="74" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-74.7522" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-74.7522" Y="-468.172"/>
+                </Point>
+                <Point X="149.513" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.513" Y="-468.172"/>
+                </Point>
+                <Point X="149.513" Y="360" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.513" Y="360"/>
+                </Point>
+                <Point X="-45" Y="376.447" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-45" Y="376.447"/>
+                </Point>
+                <Point X="-129.888" Y="129.113" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-129.888" Y="129.113"/>
+                </Point>
+                <Point X="149.514" Y="-264.985" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.514" Y="-264.985"/>
+                </Point>
+                <Point X="149.515" Y="-4.6414" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.515" Y="-4.6414"/>
+                </Point>
+                <Point X="153.652" Y="223.006" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="153.652" Y="223.006"/>
+                </Point>
+                <Point X="72.2293" Y="360.337" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="72.2293" Y="360.337"/>
+                </Point>
+                <Point X="13.5845" Y="367.064" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="13.5845" Y="367.064"/>
+                </Point>
+                <Point X="-64.029" Y="255.356" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-64.029" Y="255.356"/>
+                </Point>
+                <Point X="-102.367" Y="149.883" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-102.367" Y="149.883"/>
+                </Point>
+                <Point X="-99.7198" Y="59.9096" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-99.7198" Y="59.9096"/>
+                </Point>
+                <Point X="-99.1379" Y="-119.456" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-99.1379" Y="-119.456"/>
+                </Point>
+            </PointList>
+            <Line GID="24" PatternGID="1" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="25" PatternGID="1" Type="2" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="6"/>
+                <PointIndex Index="7"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="26" PatternGID="1" Type="3" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="8"/>
+                <PointIndex Index="9"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="27" PatternGID="1" Type="2" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="10"/>
+                <PointIndex Index="11"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="28" PatternGID="1" Type="3" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="12"/>
+                <PointIndex Index="13"/>
+                <PointIndex Index="0"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="1" ColorR="0" ColorG="0" ColorB="0" StartLineGID="26" EndLineGID="26" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </BoundaryShape>
+        <InternalShape GID="4" Hole="false" R0="-0.85004" R1="0" R2="0" R3="0.844085" X="0" Y="0">
+            <PointList>
+                <Point X="88.2811" Y="-549.65" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="88.2811" Y="-549.65"/>
+                </Point>
+                <Point X="-175.899" Y="-549.65" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-175.899" Y="-549.65"/>
+                </Point>
+            </PointList>
+            <Line GID="29" PatternGID="4" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="4" ColorR="4.95918e-39" ColorG="4.95919e-39" ColorB="5.05103e-39" StartLineGID="29" EndLineGID="29" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </InternalShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="5" PatternName="Pattern_328769" R0="-1.27716" R1="0" R2="0" R3="1.18471" X="-178.382" Y="399.929">
+            <Arrangement Name="Leg_Skirt_Back_R" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="90" PositionY="0" Orientation="180" Offset="50" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-55.9232" Y="-463.952" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.9232" Y="-463.952"/>
+                </Point>
+                <Point X="-55.7743" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.7743" Y="-468.172"/>
+                </Point>
+                <Point X="141.725" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="141.725" Y="-468.172"/>
+                </Point>
+                <Point X="141.68" Y="-463.952" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="141.68" Y="-463.952"/>
+                </Point>
+                <Point X="-55.881" Y="-465.08" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.881" Y="-465.08"/>
+                </Point>
+                <Point X="-55.8276" Y="-466.624" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.8276" Y="-466.624"/>
+                </Point>
+            </PointList>
+            <Line GID="30" PatternGID="5" Type="3" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="31" PatternGID="5" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="32" PatternGID="5" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="33" PatternGID="5" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="6" PatternName="Pattern_328772" R0="1.17641" R1="0" R2="0" R3="1.18471" X="-634.638" Y="401.834">
+            <Arrangement Name="Leg_Skirt_Front_L" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="40" PositionY="0" Orientation="180" Offset="50" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="149.522" Y="-463.952" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.522" Y="-463.952"/>
+                </Point>
+                <Point X="149.513" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.513" Y="-468.172"/>
+                </Point>
+                <Point X="-74.7522" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-74.7522" Y="-468.172"/>
+                </Point>
+                <Point X="-75.0425" Y="-463.951" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-75.0425" Y="-463.951"/>
+                </Point>
+                <Point X="-74.8538" Y="-466.719" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-74.8538" Y="-466.719"/>
+                </Point>
+                <Point X="-74.955" Y="-465.269" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-74.955" Y="-465.269"/>
+                </Point>
+            </PointList>
+            <Line GID="34" PatternGID="6" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="35" PatternGID="6" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="36" PatternGID="6" Type="3" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="37" PatternGID="6" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="1" PatternName="Pattern_328761" R0="1.27716" R1="0" R2="0" R3="1.18471" X="165.027" Y="507.034">
+            <Arrangement Name="Leg_Front_L" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="75" PositionY="48" Orientation="180" Offset="64" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-55.7743" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.7743" Y="-468.172"/>
+                </Point>
+                <Point X="141.725" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="141.725" Y="-468.172"/>
+                </Point>
+                <Point X="131.882" Y="360" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="131.882" Y="360"/>
+                </Point>
+                <Point X="-45" Y="350" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-45" Y="350"/>
+                </Point>
+                <Point X="-95" Y="129.113" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-95" Y="129.113"/>
+                </Point>
+                <Point X="139.439" Y="-275.784" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="139.439" Y="-275.784"/>
+                </Point>
+                <Point X="136.705" Y="-45.7013" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="136.705" Y="-45.7013"/>
+                </Point>
+                <Point X="137.432" Y="195.917" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="137.432" Y="195.917"/>
+                </Point>
+                <Point X="72.2323" Y="354.899" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="72.2323" Y="354.899"/>
+                </Point>
+                <Point X="17.6781" Y="351.041" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="17.6781" Y="351.041"/>
+                </Point>
+                <Point X="-50.7039" Y="259.588" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-50.7039" Y="259.588"/>
+                </Point>
+                <Point X="-73.6302" Y="155.331" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-73.6302" Y="155.331"/>
+                </Point>
+                <Point X="-82.5288" Y="51.7543" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-82.5288" Y="51.7543"/>
+                </Point>
+                <Point X="-68.568" Y="-96.6122" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-68.568" Y="-96.6122"/>
+                </Point>
+            </PointList>
+            <Line GID="38" PatternGID="1" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="39" PatternGID="1" Type="2" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="6"/>
+                <PointIndex Index="7"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="40" PatternGID="1" Type="3" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="8"/>
+                <PointIndex Index="9"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="41" PatternGID="1" Type="2" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="10"/>
+                <PointIndex Index="11"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="42" PatternGID="1" Type="3" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="12"/>
+                <PointIndex Index="13"/>
+                <PointIndex Index="0"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="1" ColorR="0" ColorG="0" ColorB="0" StartLineGID="40" EndLineGID="40" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </BoundaryShape>
+        <InternalShape GID="3" Hole="false" R0="0.782986" R1="0" R2="0" R3="0.844085" X="0" Y="0">
+            <PointList>
+                <Point X="-71.4229" Y="-549.65" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-71.4229" Y="-549.65"/>
+                </Point>
+                <Point X="180.949" Y="-549.65" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="180.949" Y="-549.65"/>
+                </Point>
+            </PointList>
+            <Line GID="43" PatternGID="3" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="3" ColorR="1.01939e-38" ColorG="9.18369e-39" ColorB="2.93878e-39" StartLineGID="43" EndLineGID="43" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </InternalShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="1" PatternName="Pattern_328762" R0="-1.17641" R1="0" R2="0" R3="1.18471" X="623.385" Y="508.802">
+            <Arrangement Name="Leg_Back_L" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="25" PositionY="48" Orientation="180" Offset="74" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-74.7522" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-74.7522" Y="-468.172"/>
+                </Point>
+                <Point X="149.513" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.513" Y="-468.172"/>
+                </Point>
+                <Point X="149.513" Y="360" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.513" Y="360"/>
+                </Point>
+                <Point X="-45" Y="376.447" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-45" Y="376.447"/>
+                </Point>
+                <Point X="-129.888" Y="129.113" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-129.888" Y="129.113"/>
+                </Point>
+                <Point X="149.514" Y="-264.985" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.514" Y="-264.985"/>
+                </Point>
+                <Point X="149.515" Y="-4.6414" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.515" Y="-4.6414"/>
+                </Point>
+                <Point X="153.652" Y="223.006" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="153.652" Y="223.006"/>
+                </Point>
+                <Point X="72.2293" Y="360.337" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="72.2293" Y="360.337"/>
+                </Point>
+                <Point X="13.5845" Y="367.064" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="13.5845" Y="367.064"/>
+                </Point>
+                <Point X="-64.029" Y="255.356" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-64.029" Y="255.356"/>
+                </Point>
+                <Point X="-102.367" Y="149.883" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-102.367" Y="149.883"/>
+                </Point>
+                <Point X="-99.7198" Y="59.9096" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-99.7198" Y="59.9096"/>
+                </Point>
+                <Point X="-99.1379" Y="-119.456" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-99.1379" Y="-119.456"/>
+                </Point>
+            </PointList>
+            <Line GID="44" PatternGID="1" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="45" PatternGID="1" Type="2" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="6"/>
+                <PointIndex Index="7"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="46" PatternGID="1" Type="3" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="8"/>
+                <PointIndex Index="9"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="47" PatternGID="1" Type="2" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="10"/>
+                <PointIndex Index="11"/>
+                <PointIndex Index="4"/>
+            </Line>
+            <Line GID="48" PatternGID="1" Type="3" bLockState="false">
+                <PointIndex Index="4"/>
+                <PointIndex Index="12"/>
+                <PointIndex Index="13"/>
+                <PointIndex Index="0"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="1" ColorR="0" ColorG="0" ColorB="0" StartLineGID="46" EndLineGID="46" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </BoundaryShape>
+        <InternalShape GID="4" Hole="false" R0="-0.85004" R1="0" R2="0" R3="0.844085" X="0" Y="0">
+            <PointList>
+                <Point X="88.2811" Y="-549.65" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="88.2811" Y="-549.65"/>
+                </Point>
+                <Point X="-175.899" Y="-549.65" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-175.899" Y="-549.65"/>
+                </Point>
+            </PointList>
+            <Line GID="49" PatternGID="4" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Decorstitch Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="3" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+                <ParametricLine RefShapeGID="4" ColorR="0" ColorG="0" ColorB="0" StartLineGID="49" EndLineGID="49" StartRatio="0" EndRatio="1" Direction="1"/>
+            </Decorstitch>
+        </InternalShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="5" PatternName="Pattern_328770" R0="1.27716" R1="0" R2="0" R3="1.18471" X="170.702" Y="399.929">
+            <Arrangement Name="Leg_Skirt_Back_L" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="90" PositionY="0" Orientation="180" Offset="50" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="-55.9232" Y="-463.952" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.9232" Y="-463.952"/>
+                </Point>
+                <Point X="-55.7743" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.7743" Y="-468.172"/>
+                </Point>
+                <Point X="141.725" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="141.725" Y="-468.172"/>
+                </Point>
+                <Point X="141.68" Y="-463.952" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="141.68" Y="-463.952"/>
+                </Point>
+                <Point X="-55.881" Y="-465.08" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.881" Y="-465.08"/>
+                </Point>
+                <Point X="-55.8276" Y="-466.624" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-55.8276" Y="-466.624"/>
+                </Point>
+            </PointList>
+            <Line GID="50" PatternGID="5" Type="3" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="51" PatternGID="5" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="52" PatternGID="5" Type="0" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="53" PatternGID="5" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <Pattern>
+        <GradingInfo DefaultSize="0" GradeRuleName=""/>
+        <Instance GID="6" PatternName="Pattern_328773" R0="-1.17641" R1="0" R2="0" R3="1.18471" X="626.958" Y="401.834">
+            <Arrangement Name="Leg_Skirt_Front_R" Type="1" UpDownReverse="false" LeftRightReverse="false" PositionX="40" PositionY="0" Orientation="180" Offset="50" ForceToUpdate="true"/>
+        </Instance>
+        <BoundaryShape>
+            <PointList>
+                <Point X="149.522" Y="-463.952" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.522" Y="-463.952"/>
+                </Point>
+                <Point X="149.513" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="149.513" Y="-468.172"/>
+                </Point>
+                <Point X="-74.7522" Y="-468.172" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-74.7522" Y="-468.172"/>
+                </Point>
+                <Point X="-75.0425" Y="-463.951" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-75.0425" Y="-463.951"/>
+                </Point>
+                <Point X="-74.8538" Y="-466.719" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-74.8538" Y="-466.719"/>
+                </Point>
+                <Point X="-74.955" Y="-465.269" bLockState="false">
+                    <GradingPoint GradingSizeIndex="0" X="-74.955" Y="-465.269"/>
+                </Point>
+            </PointList>
+            <Line GID="54" PatternGID="6" Type="0" bLockState="false">
+                <PointIndex Index="0"/>
+                <PointIndex Index="1"/>
+            </Line>
+            <Line GID="55" PatternGID="6" Type="0" bLockState="false">
+                <PointIndex Index="1"/>
+                <PointIndex Index="2"/>
+            </Line>
+            <Line GID="56" PatternGID="6" Type="3" bLockState="false">
+                <PointIndex Index="2"/>
+                <PointIndex Index="4"/>
+                <PointIndex Index="5"/>
+                <PointIndex Index="3"/>
+            </Line>
+            <Line GID="57" PatternGID="6" Type="0" bLockState="false">
+                <PointIndex Index="3"/>
+                <PointIndex Index="0"/>
+            </Line>
+        </BoundaryShape>
+    </Pattern>
+    <FabricList>
+        <Fabric InstanceGID="15" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/24260/1025/12105_BASE_141784.jpg" TranslationX="496.978" TranslationY="1190.19" Angle="90" ScaleX="59.0827" ScaleY="58.801"/>
+        <Fabric InstanceGID="1" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/24260/1025/12105_BASE_141784.jpg" TranslationX="-177.41" TranslationY="507.034" Angle="0" ScaleX="59.0827" ScaleY="58.801"/>
+        <Fabric InstanceGID="1" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/24260/1025/12105_BASE_141784.jpg" TranslationX="-635.767" TranslationY="508.802" Angle="0" ScaleX="59.0827" ScaleY="58.801"/>
+        <Fabric InstanceGID="5" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/24260/1025/12105_BASE_141784.jpg" TranslationX="-178.382" TranslationY="399.929" Angle="0" ScaleX="59.0827" ScaleY="58.801"/>
+        <Fabric InstanceGID="6" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/24260/1025/12105_BASE_141784.jpg" TranslationX="-634.638" TranslationY="401.834" Angle="0" ScaleX="59.0827" ScaleY="58.801"/>
+        <Fabric InstanceGID="1" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/24260/1025/12105_BASE_141784.jpg" TranslationX="165.027" TranslationY="507.034" Angle="0" ScaleX="59.0827" ScaleY="58.801"/>
+        <Fabric InstanceGID="1" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/24260/1025/12105_BASE_141784.jpg" TranslationX="623.385" TranslationY="508.802" Angle="0" ScaleX="59.0827" ScaleY="58.801"/>
+        <Fabric InstanceGID="5" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/24260/1025/12105_BASE_141784.jpg" TranslationX="170.702" TranslationY="399.929" Angle="0" ScaleX="59.0827" ScaleY="58.801"/>
+        <Fabric InstanceGID="6" Path="C:/Users/ASUS/AppData/Local/CLO/CLO Standalone OnlineAuth/24260/1025/12105_BASE_141784.jpg" TranslationX="626.958" TranslationY="401.834" Angle="0" ScaleX="59.0827" ScaleY="58.801"/>
+    </FabricList>
+    <SeamLinePairGroup ColorR="0.176471" ColorG="0.478431" ColorB="1">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.176471" ColorG="0.478431" ColorB="1" StartLineGID="12" EndLineGID="12" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.176471" ColorG="0.478431" ColorB="1" StartLineGID="9" EndLineGID="9" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="58" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.176471" ColorG ="0.478431" ColorB ="1" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="12" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="12" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.176471" ColorG ="0.478431" ColorB ="1" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="9" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="9" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.729412" ColorG="0.254902" ColorB="0.376471">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.729412" ColorG="0.254902" ColorB="0.376471" StartLineGID="10" EndLineGID="10" StartRatio="0" EndRatio="0.473166" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.729412" ColorG="0.254902" ColorB="0.376471" StartLineGID="20" EndLineGID="20" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="59" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.729412" ColorG ="0.254902" ColorB ="0.376471" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="10" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="10" Ratio ="0.473166"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.729412" ColorG ="0.254902" ColorB ="0.376471" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="20" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="20" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="1" ColorG="0.27451" ColorB="0.85098">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="1" ColorG="0.27451" ColorB="0.85098" StartLineGID="10" EndLineGID="10" StartRatio="0.473166" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="1" ColorG="0.27451" ColorB="0.85098" StartLineGID="26" EndLineGID="26" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="60" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="1" ColorG ="0.27451" ColorB ="0.85098" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="10" Ratio ="0.473166"/>
+                <SeamEndPoint RefLineGID ="10" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="1" ColorG ="0.27451" ColorB ="0.85098" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="26" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="26" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.266667" ColorG="0.54902" ColorB="0.796078">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.266667" ColorG="0.54902" ColorB="0.796078" StartLineGID="28" EndLineGID="28" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.266667" ColorG="0.54902" ColorB="0.796078" StartLineGID="22" EndLineGID="22" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="61" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.266667" ColorG ="0.54902" ColorB ="0.796078" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="28" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="28" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.266667" ColorG ="0.54902" ColorB ="0.796078" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="22" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="22" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.858824" ColorG="0.305882" ColorB="0.611765">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.858824" ColorG="0.305882" ColorB="0.611765" StartLineGID="19" EndLineGID="19" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.858824" ColorG="0.305882" ColorB="0.611765" StartLineGID="25" EndLineGID="25" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="62" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.858824" ColorG ="0.305882" ColorB ="0.611765" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="19" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="19" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.858824" ColorG ="0.305882" ColorB ="0.611765" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="25" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="25" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.721569" ColorG="0.14902" ColorB="0.278431">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.721569" ColorG="0.14902" ColorB="0.278431" StartLineGID="18" EndLineGID="18" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="5" ColorR="0.721569" ColorG="0.14902" ColorB="0.278431" StartLineGID="31" EndLineGID="31" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="63" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.721569" ColorG ="0.14902" ColorB ="0.278431" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="18" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="18" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.721569" ColorG ="0.14902" ColorB ="0.278431" RefPatternGID="5">
+                <SeamStartPoint RefLineGID ="31" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="31" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.0431373" ColorG="0.427451" ColorB="0.717647">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.0431373" ColorG="0.427451" ColorB="0.717647" StartLineGID="19" EndLineGID="19" StartRatio="0" EndRatio="0.00509529" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="5" ColorR="0.0431373" ColorG="0.427451" ColorB="0.717647" StartLineGID="32" EndLineGID="32" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="64" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.0431373" ColorG ="0.427451" ColorB ="0.717647" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="19" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="19" Ratio ="0.00509529"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.0431373" ColorG ="0.427451" ColorB ="0.717647" RefPatternGID="5">
+                <SeamStartPoint RefLineGID ="32" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="32" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.976471" ColorG="0.411765" ColorB="0.215686">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.976471" ColorG="0.411765" ColorB="0.215686" StartLineGID="22" EndLineGID="22" StartRatio="0.99295" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="5" ColorR="0.976471" ColorG="0.411765" ColorB="0.215686" StartLineGID="30" EndLineGID="30" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="65" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.976471" ColorG ="0.411765" ColorB ="0.215686" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="22" Ratio ="0.99295"/>
+                <SeamEndPoint RefLineGID ="22" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.976471" ColorG ="0.411765" ColorB ="0.215686" RefPatternGID="5">
+                <SeamStartPoint RefLineGID ="30" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="30" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.0862745" ColorG="0.666667" ColorB="0.321569">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="5" ColorR="0.0862745" ColorG="0.666667" ColorB="0.321569" StartLineGID="33" EndLineGID="33" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="3" ColorR="0.0862745" ColorG="0.666667" ColorB="0.321569" StartLineGID="23" EndLineGID="23" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="66" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.0862745" ColorG ="0.666667" ColorB ="0.321569" RefPatternGID="5">
+                <SeamStartPoint RefLineGID ="33" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="33" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.0862745" ColorG ="0.666667" ColorB ="0.321569" RefPatternGID="3">
+                <SeamStartPoint RefLineGID ="23" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="23" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.427451" ColorG="0.105882" ColorB="0.262745">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.427451" ColorG="0.105882" ColorB="0.262745" StartLineGID="24" EndLineGID="24" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="6" ColorR="0.427451" ColorG="0.105882" ColorB="0.262745" StartLineGID="35" EndLineGID="35" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="67" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.427451" ColorG ="0.105882" ColorB ="0.262745" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="24" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="24" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.427451" ColorG ="0.105882" ColorB ="0.262745" RefPatternGID="6">
+                <SeamStartPoint RefLineGID ="35" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="35" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.945098" ColorG="0.356863" ColorB="0.356863">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.945098" ColorG="0.356863" ColorB="0.356863" StartLineGID="25" EndLineGID="25" StartRatio="0" EndRatio="0.00509533" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="6" ColorR="0.945098" ColorG="0.356863" ColorB="0.356863" StartLineGID="34" EndLineGID="34" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="68" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.945098" ColorG ="0.356863" ColorB ="0.356863" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="25" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="25" Ratio ="0.00509532"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.945098" ColorG ="0.356863" ColorB ="0.356863" RefPatternGID="6">
+                <SeamStartPoint RefLineGID ="34" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="34" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0" ColorG="0.709804" ColorB="0.890196">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0" ColorG="0.709804" ColorB="0.890196" StartLineGID="28" EndLineGID="28" StartRatio="0.992961" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="6" ColorR="0" ColorG="0.709804" ColorB="0.890196" StartLineGID="36" EndLineGID="36" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="69" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0" ColorG ="0.709804" ColorB ="0.890196" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="28" Ratio ="0.992961"/>
+                <SeamEndPoint RefLineGID ="28" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0" ColorG ="0.709804" ColorB ="0.890196" RefPatternGID="6">
+                <SeamStartPoint RefLineGID ="36" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="36" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.611765" ColorG="0.286275" ColorB="0.596078">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="6" ColorR="0.611765" ColorG="0.286275" ColorB="0.596078" StartLineGID="37" EndLineGID="37" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="4" ColorR="0.611765" ColorG="0.286275" ColorB="0.596078" StartLineGID="29" EndLineGID="29" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="70" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.611765" ColorG ="0.286275" ColorB ="0.596078" RefPatternGID="6">
+                <SeamStartPoint RefLineGID ="37" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="37" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.611765" ColorG ="0.286275" ColorB ="0.596078" RefPatternGID="4">
+                <SeamStartPoint RefLineGID ="29" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="29" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.623529" ColorG="0.286275" ColorB="0.298039">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.623529" ColorG="0.286275" ColorB="0.298039" StartLineGID="48" EndLineGID="48" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.623529" ColorG="0.286275" ColorB="0.298039" StartLineGID="42" EndLineGID="42" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="71" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.623529" ColorG ="0.286275" ColorB ="0.298039" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="48" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="48" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.623529" ColorG ="0.286275" ColorB ="0.298039" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="42" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="42" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0" ColorG="0.65098" ColorB="0.815686">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0" ColorG="0.65098" ColorB="0.815686" StartLineGID="39" EndLineGID="39" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0" ColorG="0.65098" ColorB="0.815686" StartLineGID="45" EndLineGID="45" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="72" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0" ColorG ="0.65098" ColorB ="0.815686" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="39" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="39" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0" ColorG ="0.65098" ColorB ="0.815686" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="45" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="45" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.180392" ColorG="0.403922" ColorB="0.305882">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.180392" ColorG="0.403922" ColorB="0.305882" StartLineGID="11" EndLineGID="11" StartRatio="1" EndRatio="0.526834" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.180392" ColorG="0.403922" ColorB="0.305882" StartLineGID="40" EndLineGID="40" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="73" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.180392" ColorG ="0.403922" ColorB ="0.305882" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="11" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="11" Ratio ="0.526834"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.180392" ColorG ="0.403922" ColorB ="0.305882" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="40" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="40" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.176471" ColorG="0.478431" ColorB="1">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="15" ColorR="0.176471" ColorG="0.478431" ColorB="1" StartLineGID="11" EndLineGID="11" StartRatio="0.526834" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.176471" ColorG="0.478431" ColorB="1" StartLineGID="46" EndLineGID="46" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="74" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.176471" ColorG ="0.478431" ColorB ="1" RefPatternGID="15">
+                <SeamStartPoint RefLineGID ="11" Ratio ="0.526834"/>
+                <SeamEndPoint RefLineGID ="11" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.176471" ColorG ="0.478431" ColorB ="1" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="46" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="46" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.729412" ColorG="0.254902" ColorB="0.376471">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.729412" ColorG="0.254902" ColorB="0.376471" StartLineGID="38" EndLineGID="38" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="5" ColorR="0.729412" ColorG="0.254902" ColorB="0.376471" StartLineGID="51" EndLineGID="51" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="75" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.729412" ColorG ="0.254902" ColorB ="0.376471" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="38" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="38" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.729412" ColorG ="0.254902" ColorB ="0.376471" RefPatternGID="5">
+                <SeamStartPoint RefLineGID ="51" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="51" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="1" ColorG="0.27451" ColorB="0.85098">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="1" ColorG="0.27451" ColorB="0.85098" StartLineGID="39" EndLineGID="39" StartRatio="0" EndRatio="0.00509529" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="5" ColorR="1" ColorG="0.27451" ColorB="0.85098" StartLineGID="52" EndLineGID="52" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="76" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="1" ColorG ="0.27451" ColorB ="0.85098" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="39" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="39" Ratio ="0.00509529"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="1" ColorG ="0.27451" ColorB ="0.85098" RefPatternGID="5">
+                <SeamStartPoint RefLineGID ="52" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="52" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.266667" ColorG="0.54902" ColorB="0.796078">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.266667" ColorG="0.54902" ColorB="0.796078" StartLineGID="42" EndLineGID="42" StartRatio="0.99295" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="5" ColorR="0.266667" ColorG="0.54902" ColorB="0.796078" StartLineGID="50" EndLineGID="50" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="77" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.266667" ColorG ="0.54902" ColorB ="0.796078" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="42" Ratio ="0.99295"/>
+                <SeamEndPoint RefLineGID ="42" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.266667" ColorG ="0.54902" ColorB ="0.796078" RefPatternGID="5">
+                <SeamStartPoint RefLineGID ="50" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="50" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.858824" ColorG="0.305882" ColorB="0.611765">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="5" ColorR="0.858824" ColorG="0.305882" ColorB="0.611765" StartLineGID="53" EndLineGID="53" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="3" ColorR="0.858824" ColorG="0.305882" ColorB="0.611765" StartLineGID="43" EndLineGID="43" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="78" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.858824" ColorG ="0.305882" ColorB ="0.611765" RefPatternGID="5">
+                <SeamStartPoint RefLineGID ="53" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="53" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.858824" ColorG ="0.305882" ColorB ="0.611765" RefPatternGID="3">
+                <SeamStartPoint RefLineGID ="43" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="43" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.964706" ColorG="0.227451" ColorB="0.0313726">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.964706" ColorG="0.227451" ColorB="0.0313726" StartLineGID="44" EndLineGID="44" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="6" ColorR="0.964706" ColorG="0.227451" ColorB="0.0313726" StartLineGID="55" EndLineGID="55" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="79" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.964706" ColorG ="0.227451" ColorB ="0.0313726" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="44" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="44" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.964706" ColorG ="0.227451" ColorB ="0.0313726" RefPatternGID="6">
+                <SeamStartPoint RefLineGID ="55" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="55" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.411765" ColorG="0.47451" ColorB="0.733333">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.411765" ColorG="0.47451" ColorB="0.733333" StartLineGID="45" EndLineGID="45" StartRatio="0" EndRatio="0.00509533" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="6" ColorR="0.411765" ColorG="0.47451" ColorB="0.733333" StartLineGID="54" EndLineGID="54" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="80" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.411765" ColorG ="0.47451" ColorB ="0.733333" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="45" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="45" Ratio ="0.00509532"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.411765" ColorG ="0.47451" ColorB ="0.733333" RefPatternGID="6">
+                <SeamStartPoint RefLineGID ="54" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="54" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.603922" ColorG="0.419608" ColorB="0.192157">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.603922" ColorG="0.419608" ColorB="0.192157" StartLineGID="48" EndLineGID="48" StartRatio="0.992961" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="6" ColorR="0.603922" ColorG="0.419608" ColorB="0.192157" StartLineGID="56" EndLineGID="56" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="81" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.603922" ColorG ="0.419608" ColorB ="0.192157" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="48" Ratio ="0.992961"/>
+                <SeamEndPoint RefLineGID ="48" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.603922" ColorG ="0.419608" ColorB ="0.192157" RefPatternGID="6">
+                <SeamStartPoint RefLineGID ="56" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="56" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.364706" ColorG="0.203922" ColorB="0.384314">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="6" ColorR="0.364706" ColorG="0.203922" ColorB="0.384314" StartLineGID="57" EndLineGID="57" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="4" ColorR="0.364706" ColorG="0.203922" ColorB="0.384314" StartLineGID="49" EndLineGID="49" StartRatio="1" EndRatio="0" Direction="0"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="82" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="false" ColorR ="0.364706" ColorG ="0.203922" ColorB ="0.384314" RefPatternGID="6">
+                <SeamStartPoint RefLineGID ="57" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="57" Ratio ="0"/>
+            </SeamLine>
+            <SeamLine Reverse ="false" ColorR ="0.364706" ColorG ="0.203922" ColorB ="0.384314" RefPatternGID="4">
+                <SeamStartPoint RefLineGID ="49" Ratio ="1"/>
+                <SeamEndPoint RefLineGID ="49" Ratio ="0"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.0941176" ColorG="0.705882" ColorB="0.913725">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.0941176" ColorG="0.705882" ColorB="0.913725" StartLineGID="21" EndLineGID="21" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.0941176" ColorG="0.705882" ColorB="0.913725" StartLineGID="41" EndLineGID="41" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="83" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.0941176" ColorG ="0.705882" ColorB ="0.913725" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="21" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="21" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.0941176" ColorG ="0.705882" ColorB ="0.913725" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="41" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="41" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <SeamLinePairGroup ColorR="0.435294" ColorG="0.376471" ColorB="0.431373">
+        <ThickParametricLine0 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.435294" ColorG="0.376471" ColorB="0.431373" StartLineGID="47" EndLineGID="47" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine0>
+        <ThickParametricLine1 Flip="0" BothSideOnInnserShape="0" ExtendStart="1" ExtendEnd="1" ThickLineType="4" Curved="0" CurveRadius="5" RightAngled="0" Index="0">
+            <ParametricLine RefShapeGID="1" ColorR="0.435294" ColorG="0.376471" ColorB="0.431373" StartLineGID="27" EndLineGID="27" StartRatio="0" EndRatio="1" Direction="1"/>
+        </ThickParametricLine1>
+        <SeamLinePair GID ="84" BKScale="1" FoldAngle="0">
+            <SeamLine Reverse ="true" ColorR ="0.435294" ColorG ="0.376471" ColorB ="0.431373" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="47" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="47" Ratio ="1"/>
+            </SeamLine>
+            <SeamLine Reverse ="true" ColorR ="0.435294" ColorG ="0.376471" ColorB ="0.431373" RefPatternGID="1">
+                <SeamStartPoint RefLineGID ="27" Ratio ="0"/>
+                <SeamEndPoint RefLineGID ="27" Ratio ="1"/>
+            </SeamLine>
+        </SeamLinePair>
+    </SeamLinePairGroup>
+    <MaxGID MaxGID="84"/>
+    <FileInfo/>
+    <BOM CurrentColorWayIndex="0" ProjectName="Linen Trouser 01" Version="1" ModularMark="False">
+        <ColorWay Index="0" Name="Default Colorway">
+            <DetailsViewCaptures>
+                <CustomCamera Name="Custom_View_1" FilePath="Images/Default Colorway/3D Garment/Custom View/0_Custom_View_1.png"/>
+                <CustomCamera Name="Custom_View_2" FilePath="Images/Default Colorway/3D Garment/Custom View/1_Custom_View_2.png"/>
+                <CustomCamera Name="Custom_View_3" FilePath="Images/Default Colorway/3D Garment/Custom View/2_Custom_View_3.png"/>
+                <CustomCamera Name="Custom_View_4" FilePath="Images/Default Colorway/3D Garment/Custom View/3_Custom_View_4.png"/>
+                <CustomCamera Name="Custom_View_5" FilePath="Images/Default Colorway/3D Garment/Custom View/4_Custom_View_5.png"/>
+                <CustomCamera Name="Custom_View_6" FilePath="Images/Default Colorway/3D Garment/Custom View/5_Custom_View_6.png"/>
+                <CustomCamera Name="Custom_View_7" FilePath="Images/Default Colorway/3D Garment/Custom View/6_Custom_View_7.png"/>
+            </DetailsViewCaptures>
+            <PatternList>
+                <Pattern Name="6" FeatureCode="" ID="0" Snapshot="Images/Default Colorway/2D Pattern/6.png" ConsumptionArea="31499.8" ConsumptionAreaUnit="sq. mm" FabricName="Waist" FabricID="0"/>
+                <Pattern Name="Pattern_328759" FeatureCode="" ID="1" Snapshot="Images/Default Colorway/2D Pattern/Pattern_328759.png" ConsumptionArea="254505" ConsumptionAreaUnit="sq. mm" FabricName="Waist" FabricID="0"/>
+                <Pattern Name="Pattern_328760" FeatureCode="" ID="2" Snapshot="Images/Default Colorway/2D Pattern/Pattern_328760.png" ConsumptionArea="277238" ConsumptionAreaUnit="sq. mm" FabricName="Waist" FabricID="0"/>
+                <Pattern Name="Pattern_328769" FeatureCode="" ID="3" Snapshot="Images/Default Colorway/2D Pattern/Pattern_328769.png" ConsumptionArea="1261.49" ConsumptionAreaUnit="sq. mm" FabricName="Waist" FabricID="0"/>
+                <Pattern Name="Pattern_328772" FeatureCode="" ID="4" Snapshot="Images/Default Colorway/2D Pattern/Pattern_328772.png" ConsumptionArea="1320.03" ConsumptionAreaUnit="sq. mm" FabricName="Waist" FabricID="0"/>
+                <Pattern Name="Pattern_328761" FeatureCode="" ID="5" Snapshot="Images/Default Colorway/2D Pattern/Pattern_328761.png" ConsumptionArea="254505" ConsumptionAreaUnit="sq. mm" FabricName="Waist" FabricID="0"/>
+                <Pattern Name="Pattern_328762" FeatureCode="" ID="6" Snapshot="Images/Default Colorway/2D Pattern/Pattern_328762.png" ConsumptionArea="277238" ConsumptionAreaUnit="sq. mm" FabricName="Waist" FabricID="0"/>
+                <Pattern Name="Pattern_328770" FeatureCode="" ID="7" Snapshot="Images/Default Colorway/2D Pattern/Pattern_328770.png" ConsumptionArea="1261.49" ConsumptionAreaUnit="sq. mm" FabricName="Waist" FabricID="0"/>
+                <Pattern Name="Pattern_328773" FeatureCode="" ID="8" Snapshot="Images/Default Colorway/2D Pattern/Pattern_328773.png" ConsumptionArea="1320.03" ConsumptionAreaUnit="sq. mm" FabricName="Waist" FabricID="0"/>
+            </PatternList>
+            <Garment>
+                <ColorWay Name="Default Colorway" FeatureCode="" ID="0">
+                    <FabricList>
+                        <Fabric ID="0" Name="Waist"/>
+                    </FabricList>
+                    <ButtonHeadList>
+                        <ButtonHead ID="0" Name="Default Button"/>
+                    </ButtonHeadList>
+                    <ButtonHoleList>
+                        <ButtonHole ID="0" Name="Default Buttonhole"/>
+                    </ButtonHoleList>
+                    <TopStitchList>
+                        <Topstitch ID="0" Name="Default Topstitch"/>
+                        <Topstitch ID="1" Name="Default Topstitch"/>
+                    </TopStitchList>
+                    <ColorwaySnapshotList>
+                        <ColorwaySnapshot FilePath="Images/Default Colorway/3D Garment/Linen Trouser 01_Default Colorway_Avatar_0.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Default Colorway/3D Garment/Linen Trouser 01_Default Colorway_Avatar_1.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Default Colorway/3D Garment/Linen Trouser 01_Default Colorway_Avatar_2.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Default Colorway/3D Garment/Linen Trouser 01_Default Colorway_Avatar_3.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Default Colorway/3D Garment/Linen Trouser 01_Default Colorway_0.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Default Colorway/3D Garment/Linen Trouser 01_Default Colorway_1.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Default Colorway/3D Garment/Linen Trouser 01_Default Colorway_2.PNG"/>
+                        <ColorwaySnapshot FilePath="Images/Default Colorway/3D Garment/Linen Trouser 01_Default Colorway_3.PNG"/>
+                    </ColorwaySnapshotList>
+                </ColorWay>
+            </Garment>
+            <Avatar>
+                <Avatar Name="FV2_Mia" FeatureCode="" ID="0"/>
+            </Avatar>
+            <ButtonHeadList/>
+            <ButtonHoleList/>
+            <ButtonHeadStyleList/>
+            <ButtonHoleStyleList/>
+            <FabricList>
+                <Fabric Name="Waist" FeatureCode="" ID="0" Type="None" Content="None" Weight="186.869" WeightUnit="g/m2" Thickness="0.4" ThicknessUnit="cm">
+                    <Material2DList>
+                        <Material2D Face="Front">
+                            <PBRMaterial Opacity="100" Name="Waist_FRONT_3280">
+                                <globalColor Name="White" R="255" G="255" B="255" Intensity="1"/>
+                                <SpecularColor Shininess="28"/>
+                                <globalMap FilePath="Images/Default Colorway/Fabric/Waist/12105_BASE_141784.jpg" Angle="0" AngleUnit="degree" Width="2333" WidthUnit="px" Height="2308" HeightUnit="px" ScaleX="59.0827" ScaleY="58.801"/>
+                                <NormalMap FilePath="Images/Default Colorway/Fabric/Waist/12105_NRM_141786.jpg" FilePathWithIntensity="Images/Default Colorway/Fabric/Waist/12105_NRM_141786_40.jpg" Angle="0" AngleUnit="degree" Width="2333" WidthUnit="px" Height="2308" HeightUnit="px" NormalIntensityInPercentage="40"/>
+                                <SpecularMap FilePath="Images/Default Colorway/Fabric/Waist/12105_ROUGH_141790_SPEC.jpg" Angle="0" AngleUnit="degree" Width="2333" WidthUnit="px" Height="2308" HeightUnit="px"/>
+                            </PBRMaterial>
+                        </Material2D>
+                        <Material2D Face="BACK">
+                            <PBRMaterial Opacity="100" Name="Waist_FRONT_3280">
+                                <globalColor Name="White" R="255" G="255" B="255" Intensity="1"/>
+                                <SpecularColor Shininess="28"/>
+                                <globalMap FilePath="Images/Default Colorway/Fabric/Waist/12105_BASE_141784.jpg" Angle="0" AngleUnit="degree" Width="2333" WidthUnit="px" Height="2308" HeightUnit="px" ScaleX="59.0827" ScaleY="58.801"/>
+                                <NormalMap FilePath="Images/Default Colorway/Fabric/Waist/12105_NRM_141786.jpg" FilePathWithIntensity="Images/Default Colorway/Fabric/Waist/12105_NRM_141786_40.jpg" Angle="0" AngleUnit="degree" Width="2333" WidthUnit="px" Height="2308" HeightUnit="px" NormalIntensityInPercentage="40"/>
+                                <SpecularMap FilePath="Images/Default Colorway/Fabric/Waist/12105_ROUGH_141790_SPEC.jpg" Angle="0" AngleUnit="degree" Width="2333" WidthUnit="px" Height="2308" HeightUnit="px"/>
+                            </PBRMaterial>
+                        </Material2D>
+                        <Material2D Face="SIDE">
+                            <PBRMaterial Opacity="100" Name="Waist_FRONT_3280">
+                                <globalColor Name="White" R="255" G="255" B="255" Intensity="1"/>
+                                <SpecularColor Shininess="28"/>
+                                <globalMap FilePath="Images/Default Colorway/Fabric/Waist/12105_BASE_141784.jpg" Angle="0" AngleUnit="degree" Width="2333" WidthUnit="px" Height="2308" HeightUnit="px" ScaleX="59.0827" ScaleY="58.801"/>
+                                <NormalMap FilePath="Images/Default Colorway/Fabric/Waist/12105_NRM_141786.jpg" FilePathWithIntensity="Images/Default Colorway/Fabric/Waist/12105_NRM_141786_40.jpg" Angle="0" AngleUnit="degree" Width="2333" WidthUnit="px" Height="2308" HeightUnit="px" NormalIntensityInPercentage="40"/>
+                                <SpecularMap FilePath="Images/Default Colorway/Fabric/Waist/12105_ROUGH_141790_SPEC.jpg" Angle="0" AngleUnit="degree" Width="2333" WidthUnit="px" Height="2308" HeightUnit="px"/>
+                            </PBRMaterial>
+                        </Material2D>
+                    </Material2DList>
+                </Fabric>
+            </FabricList>
+            <PrintLayoutList>
+                <PrintLayout Name="Waist" FeatureCode="" ID="0">
+                    <Print RollWidth="1117.6"/>
+                    <Fabric FabricName="Waist" FabricID="0"/>
+                    <SnapshotList>
+                        <Snapshot FilePath="Images/Default Colorway/Print Layout/Print Layout_Waist.PNG"/>
+                    </SnapshotList>
+                </PrintLayout>
+            </PrintLayoutList>
+            <GraphicList/>
+            <PuckeringList/>
+            <TopStitchList>
+                <TopStitch Name="Default Topstitch_1" FeatureCode="" ID="1" ThumbnailFilePath="Images/Default Colorway/Topstitch/Default Topstitch_1.png">
+                    <Topstitch Name="Topstitch_3462">
+                        <Material2D Index="0">
+                            <PBRMaterial Opacity="100" Name="Material142108">
+                                <globalColor Name="A79371" R="167" G="147" B="113" Intensity="1"/>
+                                <SpecularColor Shininess="28"/>
+                                <globalMap FilePath="Images/Default Colorway/Topstitch/Default Topstitch_1/Basic_Offset.png" globalColorCombinedFilePath="Images/Default Colorway/Topstitch/Default Topstitch_1/Basic_Offset_R167_G147_B113.png" Angle="0" AngleUnit="degree" Width="236" WidthUnit="px" Height="39" HeightUnit="px" ScaleX="1" ScaleY="1"/>
+                            </PBRMaterial>
+                        </Material2D>
+                        <Material2D Index="1">
+                            <PBRMaterial Opacity="100" Name="Material142108">
+                                <globalColor Name="A79371" R="167" G="147" B="113" Intensity="1"/>
+                                <SpecularColor Shininess="28"/>
+                                <globalMap FilePath="Images/Default Colorway/Topstitch/Default Topstitch_1/Basic_Offset.png" globalColorCombinedFilePath="Images/Default Colorway/Topstitch/Default Topstitch_1/Basic_Offset_R167_G147_B113.png" Angle="0" AngleUnit="degree" Width="236" WidthUnit="px" Height="39" HeightUnit="px" ScaleX="1" ScaleY="1"/>
+                            </PBRMaterial>
+                        </Material2D>
+                        <Material2D Index="2">
+                            <PBRMaterial Opacity="100" Name="Material142108">
+                                <globalColor Name="A79371" R="167" G="147" B="113" Intensity="1"/>
+                                <SpecularColor Shininess="28"/>
+                                <globalMap FilePath="Images/Default Colorway/Topstitch/Default Topstitch_1/Basic_Offset.png" globalColorCombinedFilePath="Images/Default Colorway/Topstitch/Default Topstitch_1/Basic_Offset_R167_G147_B113.png" Angle="0" AngleUnit="degree" Width="236" WidthUnit="px" Height="39" HeightUnit="px" ScaleX="1" ScaleY="1"/>
+                            </PBRMaterial>
+                        </Material2D>
+                    </Topstitch>
+                </TopStitch>
+            </TopStitchList>
+            <SewingList>
+                <Sewing Name="Sewing_187316" FeatureCode="" ID="0"/>
+                <Sewing Name="Sewing_1761181" FeatureCode="" ID="1"/>
+                <Sewing Name="Sewing_1761195" FeatureCode="" ID="2"/>
+                <Sewing Name="Sewing_1765438" FeatureCode="" ID="3"/>
+                <Sewing Name="Sewing_1765595" FeatureCode="" ID="4"/>
+                <Sewing Name="Sewing_4369680" FeatureCode="" ID="5"/>
+                <Sewing Name="Sewing_4369692" FeatureCode="" ID="6"/>
+                <Sewing Name="Sewing_4369704" FeatureCode="" ID="7"/>
+                <Sewing Name="Sewing_4369716" FeatureCode="" ID="8"/>
+                <Sewing Name="Sewing_4369947" FeatureCode="" ID="9"/>
+                <Sewing Name="Sewing_4369959" FeatureCode="" ID="10"/>
+                <Sewing Name="Sewing_4369971" FeatureCode="" ID="11"/>
+                <Sewing Name="Sewing_4369983" FeatureCode="" ID="12"/>
+                <Sewing Name="Sewing_4436712" FeatureCode="" ID="13"/>
+                <Sewing Name="Sewing_4436725" FeatureCode="" ID="14"/>
+                <Sewing Name="Sewing_4436744" FeatureCode="" ID="15"/>
+                <Sewing Name="Sewing_4436758" FeatureCode="" ID="16"/>
+                <Sewing Name="Sewing_4452868" FeatureCode="" ID="17"/>
+                <Sewing Name="Sewing_4452882" FeatureCode="" ID="18"/>
+                <Sewing Name="Sewing_4452896" FeatureCode="" ID="19"/>
+                <Sewing Name="Sewing_4452910" FeatureCode="" ID="20"/>
+                <Sewing Name="Sewing_4452924" FeatureCode="" ID="21"/>
+                <Sewing Name="Sewing_4452938" FeatureCode="" ID="22"/>
+                <Sewing Name="Sewing_4452952" FeatureCode="" ID="23"/>
+                <Sewing Name="Sewing_4452966" FeatureCode="" ID="24"/>
+                <Sewing Name="Sewing_4484339" FeatureCode="" ID="25"/>
+                <Sewing Name="Sewing_4484765" FeatureCode="" ID="26"/>
+            </SewingList>
+        </ColorWay>
+    </BOM>
+</Pacx>

@@ -1,0 +1,729 @@
+{
+  "pattern": {
+    "panels": {
+      "Pattern2D_780290_20": {
+        "vertices": [
+          [
+            -5.21,
+            -42.63
+          ],
+          [
+            9.88,
+            -56.04
+          ],
+          [
+            19.09,
+            -57.74
+          ],
+          [
+            19.06,
+            45.99
+          ],
+          [
+            9.06,
+            54.84
+          ],
+          [
+            3.96,
+            50.96
+          ],
+          [
+            5.9,
+            38.58
+          ],
+          [
+            2.26,
+            31.06
+          ],
+          [
+            -1.5,
+            17.59
+          ],
+          [
+            -14.5,
+            -39.48
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.21,
+                  0.02
+                ],
+                [
+                  0.81,
+                  -0.04
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.2,
+                  -0.08
+                ],
+                [
+                  1.0,
+                  -0.0
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ]
+          },
+          {
+            "endpoints": [
+              3,
+              4
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.26,
+                  0.12
+                ],
+                [
+                  0.46,
+                  0.26
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              4,
+              5
+            ]
+          },
+          {
+            "endpoints": [
+              5,
+              6
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.0,
+                  0.0
+                ],
+                [
+                  0.23,
+                  0.12
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              6,
+              7
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  1.05,
+                  0.51
+                ],
+                [
+                  1.0,
+                  -0.0
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              7,
+              8
+            ]
+          },
+          {
+            "endpoints": [
+              8,
+              9
+            ]
+          },
+          {
+            "endpoints": [
+              9,
+              0
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.0,
+                  0.0
+                ],
+                [
+                  0.86,
+                  0.04
+                ]
+              ]
+            }
+          }
+        ],
+        "arrangement": "torso",
+        "uvr": [
+          -0.4,
+          0.15,
+          10.0
+        ]
+      },
+      "Pattern2D_780287_23": {
+        "vertices": [
+          [
+            5.21,
+            -42.63
+          ],
+          [
+            -9.88,
+            -56.04
+          ],
+          [
+            -19.09,
+            -57.74
+          ],
+          [
+            -19.06,
+            45.99
+          ],
+          [
+            -9.06,
+            54.84
+          ],
+          [
+            -3.96,
+            50.96
+          ],
+          [
+            -5.9,
+            38.58
+          ],
+          [
+            -2.26,
+            31.06
+          ],
+          [
+            1.5,
+            17.59
+          ],
+          [
+            14.5,
+            -39.48
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.21,
+                  -0.02
+                ],
+                [
+                  0.81,
+                  0.04
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.2,
+                  0.08
+                ],
+                [
+                  1.0,
+                  0.0
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ]
+          },
+          {
+            "endpoints": [
+              3,
+              4
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.26,
+                  -0.12
+                ],
+                [
+                  0.46,
+                  -0.26
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              4,
+              5
+            ]
+          },
+          {
+            "endpoints": [
+              5,
+              6
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.0,
+                  0.0
+                ],
+                [
+                  0.23,
+                  -0.12
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              6,
+              7
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  1.05,
+                  -0.51
+                ],
+                [
+                  1.0,
+                  0.0
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              7,
+              8
+            ]
+          },
+          {
+            "endpoints": [
+              8,
+              9
+            ]
+          },
+          {
+            "endpoints": [
+              9,
+              0
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.0,
+                  0.0
+                ],
+                [
+                  0.86,
+                  -0.04
+                ]
+              ]
+            }
+          }
+        ],
+        "arrangement": "torso",
+        "uvr": [
+          0.4,
+          0.15,
+          10.0
+        ]
+      },
+      "Pattern2D_780289_25": {
+        "vertices": [
+          [
+            0.0,
+            -31.84
+          ],
+          [
+            33.63,
+            -49.72
+          ],
+          [
+            21.96,
+            7.33
+          ],
+          [
+            21.52,
+            20.92
+          ],
+          [
+            13.91,
+            28.44
+          ],
+          [
+            16.83,
+            40.81
+          ],
+          [
+            10.03,
+            44.7
+          ],
+          [
+            0.0,
+            31.84
+          ],
+          [
+            -10.03,
+            44.7
+          ],
+          [
+            -16.83,
+            40.81
+          ],
+          [
+            -13.91,
+            28.44
+          ],
+          [
+            -21.52,
+            20.92
+          ],
+          [
+            -21.96,
+            7.33
+          ],
+          [
+            -33.63,
+            -49.72
+          ]
+        ],
+        "edges": [
+          {
+            "endpoints": [
+              0,
+              1
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.32,
+                  0.24
+                ],
+                [
+                  0.66,
+                  -0.12
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              1,
+              2
+            ]
+          },
+          {
+            "endpoints": [
+              2,
+              3
+            ]
+          },
+          {
+            "endpoints": [
+              3,
+              4
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.5,
+                  -0.1
+                ],
+                [
+                  0.35,
+                  0.86
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              4,
+              5
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.74,
+                  0.17
+                ],
+                [
+                  1.0,
+                  0.0
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              5,
+              6
+            ]
+          },
+          {
+            "endpoints": [
+              6,
+              7
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.47,
+                  0.13
+                ],
+                [
+                  0.81,
+                  0.13
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              7,
+              8
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.19,
+                  0.13
+                ],
+                [
+                  0.53,
+                  0.13
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              8,
+              9
+            ]
+          },
+          {
+            "endpoints": [
+              9,
+              10
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.0,
+                  0.0
+                ],
+                [
+                  0.26,
+                  0.17
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              10,
+              11
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.65,
+                  0.86
+                ],
+                [
+                  0.5,
+                  -0.1
+                ]
+              ]
+            }
+          },
+          {
+            "endpoints": [
+              11,
+              12
+            ]
+          },
+          {
+            "endpoints": [
+              12,
+              13
+            ]
+          },
+          {
+            "endpoints": [
+              13,
+              0
+            ],
+            "curvature": {
+              "type": "cubic",
+              "params": [
+                [
+                  0.34,
+                  -0.12
+                ],
+                [
+                  0.68,
+                  0.24
+                ]
+              ]
+            }
+          }
+        ],
+        "arrangement": "torso",
+        "uvr": [
+          0.0,
+          0.35,
+          15.0
+        ]
+      }
+    },
+    "stitches": [
+      {
+        "0": {
+          "panel": "Pattern2D_780290_20",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern2D_780287_23",
+          "start_id": 2,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern2D_780289_25",
+          "start_id": 5,
+          "start_ratio": 0.0,
+          "end_id": 5,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern2D_780290_20",
+          "start_id": 4,
+          "start_ratio": 0.0,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "Pattern2D_780289_25",
+          "start_id": 1,
+          "start_ratio": 0.0,
+          "end_id": 2,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern2D_780290_20",
+          "start_id": 7,
+          "start_ratio": 0.0,
+          "end_id": 8,
+          "end_ratio": 1.0
+        },
+        "reverse": true
+      },
+      {
+        "0": {
+          "panel": "Pattern2D_780289_25",
+          "start_id": 8,
+          "start_ratio": 0.0,
+          "end_id": 8,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern2D_780287_23",
+          "start_id": 4,
+          "start_ratio": 0.0,
+          "end_id": 4,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      },
+      {
+        "0": {
+          "panel": "Pattern2D_780289_25",
+          "start_id": 11,
+          "start_ratio": 0.0,
+          "end_id": 12,
+          "end_ratio": 1.0
+        },
+        "1": {
+          "panel": "Pattern2D_780287_23",
+          "start_id": 7,
+          "start_ratio": 0.0,
+          "end_id": 8,
+          "end_ratio": 1.0
+        },
+        "reverse": false
+      }
+    ]
+  }
+}
